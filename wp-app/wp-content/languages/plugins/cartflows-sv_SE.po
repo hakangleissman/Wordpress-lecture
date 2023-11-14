@@ -1,0 +1,3168 @@
+# Translation of Plugins - WooCommerce Checkout &amp; Funnel Builder by CartFlows – Create High Converting Stores For WooCommerce - Stable (latest release) in Swedish
+# This file is distributed under the same license as the Plugins - WooCommerce Checkout &amp; Funnel Builder by CartFlows – Create High Converting Stores For WooCommerce - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-12-13 17:25:18+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.7\n"
+"Language: sv_SE\n"
+"Project-Id-Version: Plugins - WooCommerce Checkout &amp; Funnel Builder by CartFlows – Create High Converting Stores For WooCommerce - Stable (latest release)\n"
+
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:1074
+msgid "Customer Information"
+msgstr "Kundinformation"
+
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:1068
+msgid "Your Order"
+msgstr "Din beställning"
+
+#: admin-core/inc/admin-helper.php:945
+msgid "No error found."
+msgstr "Inga fel hittades."
+
+#: wizard/ajax/wizard.php:532
+msgid "Invalid License Key"
+msgstr "Ogiltig licensnyckel"
+
+#: wizard/ajax/wizard.php:526 wizard/ajax/wizard.php:528
+msgid "CartFlows Pro Required"
+msgstr "CartFlows Pro krävs"
+
+#: modules/email-report/templates/email-stat-content.php:250
+#: modules/email-report/templates/email-stat-content.php:282
+#: modules/email-report/templates/email-stat-content.php:307
+msgid "CartFlows Pro"
+msgstr "CartFlows Pro"
+
+#: modules/email-report/templates/email-footer.php:70
+msgid "Unsubscribe"
+msgstr "Avsluta prenumeration"
+
+#. translators: %s user name
+#: modules/email-report/templates/email-content-section.php:27
+msgid "Hey %s!"
+msgstr "Hej %s!"
+
+#: modules/email-report/templates/email-cf-pro-block.php:62
+msgid "GET CARTFLOWS NOW"
+msgstr "SKAFFA CARTFLOWS NU"
+
+#: modules/email-report/class-cartflows-admin-report-emails.php:104
+msgid "There"
+msgstr "Där"
+
+#: classes/class-cartflows-admin.php:126
+msgid "of"
+msgstr "av"
+
+#: admin-core/inc/global-settings.php:512
+msgid "Email Adddress"
+msgstr "E-postadress"
+
+#: wizard/inc/wizard-core.php:346
+msgid "Oops!! Unexpected error occoured"
+msgstr "Hoppsan!! Ett oväntat fel uppstod"
+
+#. translators: %1$s: link html start, %2$s: link html end
+#: wizard/ajax/wizard.php:534
+msgid "No valid license key found! %1$sActivate license%2$s"
+msgstr "Ingen giltig licensnyckel hittades! %1$sAktivera licens%2$s"
+
+#: admin-core/inc/store-checkout.php:67
+msgid "Thank You (Store)"
+msgstr "Tack (butik)"
+
+#: admin-core/inc/store-checkout.php:63
+msgid "Checkout (Store)"
+msgstr "Kassa (butik)"
+
+#. translators: %s: asterisk mark
+#: modules/checkout/classes/layouts/class-cartflows-modern-checkout.php:187
+msgid "Password %s"
+msgstr "Lösenord %s"
+
+#. translators: %s: asterisk mark
+#: modules/checkout/classes/layouts/class-cartflows-modern-checkout.php:170
+msgid "Email Address %s"
+msgstr "E-postadress %s"
+
+#: admin-core/views/404-error.php:39 admin-core/assets/build/settings-app.js:9
+msgid "Go back home"
+msgstr "Gå tillbaka till hem"
+
+#: admin-core/views/404-error.php:37
+msgid "Page Not Found."
+msgstr "Sidan hittas inte."
+
+#: admin-core/views/404-error.php:38
+msgid "Sorry, we couldn’t find the page you’re looking for."
+msgstr "Vi kunde inte hitta sidan du letar efter."
+
+#: admin-core/inc/global-settings.php:53
+msgid "Limited Access"
+msgstr "Begränsad åtkomst"
+
+#: admin-core/inc/global-settings.php:49
+msgid "A full access to all settings."
+msgstr "En full åtkomst till alla inställningar."
+
+#: admin-core/inc/global-settings.php:48
+msgid "Full Access"
+msgstr "Full åtkomst"
+
+#: admin-core/inc/global-settings.php:44
+#: admin-core/assets/build/settings-app.js:9
+msgid "No Access"
+msgstr "Ingen åtkomst"
+
+#. translators: %s: asterisk mark
+#: modules/checkout/classes/layouts/class-cartflows-modern-checkout.php:242
+msgid "Create account password %s"
+msgstr "Skapa kontolösenord %s"
+
+#: admin-core/views/404-error.php:36
+msgid "404 ERROR"
+msgstr "404-FEL"
+
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:1414
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:154
+msgid "Enable Field"
+msgstr "Aktivera fält"
+
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:1144
+msgid "Display product images"
+msgstr "Visa produktbilder"
+
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:1139
+msgid "Others"
+msgstr "Annat"
+
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:1131
+msgid "Enable Price Display"
+msgstr "Aktivera prisvisning"
+
+#: modules/checkout/classes/class-cartflows-checkout-ajax.php:200
+msgid "Email not exist"
+msgstr "E-post finns inte"
+
+#: modules/checkout/classes/class-cartflows-checkout-ajax.php:200
+msgid "Email Exist."
+msgstr "E-post finns."
+
+#: modules/checkout/classes/class-cartflows-checkout-markup.php:1457
+msgid "Entered email address is not a valid email."
+msgstr "Angiven e-postadress är inte en giltig e-post."
+
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:1081
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:1083
+#: modules/checkout/classes/layouts/class-cartflows-modern-checkout.php:269
+msgid "Payment"
+msgstr "Betalning"
+
+#. translators: %1$s: username, %2$s emailid
+#: modules/checkout/classes/layouts/class-cartflows-modern-checkout.php:251
+msgid " Welcome Back %1$s ( %2$s )"
+msgstr " välkommen tillbaka %1$s ( %2$s )"
+
+#: modules/checkout/classes/layouts/class-cartflows-modern-checkout.php:167
+msgid "Email Address"
+msgstr "E-postadress"
+
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:1076
+#: modules/checkout/classes/layouts/class-cartflows-modern-checkout.php:152
+msgid "Customer information"
+msgstr "Kundinformation"
+
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:168
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:362
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:184
+#: modules/gutenberg/build/blocks.js:11
+#: modules/gutenberg/dist/blocks.build.js:1
+msgid "Modern Labels"
+msgstr "Moderna etiketter"
+
+#: classes/class-cartflows-helper.php:554 wizard/assets/build/wizard-app.js:5
+#: wizard/assets/src/wizard-steps/OptinStep.js:202
+msgid "Email address"
+msgstr "E-postadress"
+
+#: classes/class-cartflows-helper.php:545
+msgid "Last name"
+msgstr "Efternamn"
+
+#: classes/class-cartflows-helper.php:536
+msgid "First name"
+msgstr "Förnamn"
+
+#: classes/class-cartflows-admin-notices.php:188
+msgid "I already did"
+msgstr "Jag har redan gjort det"
+
+#: classes/class-cartflows-admin-notices.php:187
+msgid "Nope, maybe later"
+msgstr "Nej, kanske senare"
+
+#: classes/class-cartflows-admin-notices.php:185
+msgid "Ok, you deserve it"
+msgstr "Ok, du förtjänar det"
+
+#: admin-core/inc/global-settings.php:227
+msgid "View Content"
+msgstr "Visa innehåll"
+
+#. translators: %1$s: link html start, %2$s: link html end
+#: admin-core/ajax/importer.php:824 admin-core/ajax/importer.php:940
+msgid "%1$sActivate CartFlows Pro%2$s"
+msgstr "%1$sAktivera CartFlows Pro%2$s"
+
+#. translators: %1$s: link html start, %2$s: link html end
+#: admin-core/ajax/importer.php:821 admin-core/ajax/importer.php:937
+msgid "Upgrade to %1$sCartFlows Pro.%2$s"
+msgstr "Uppgradera till %1$sCartFlows Pro.%2$s"
+
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:1294
+msgid "Collapsible Additional Field"
+msgstr "Minimerbara ytterligare fält"
+
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:1289
+msgid "Enable Additional Field"
+msgstr "Aktivera ytterligare fält"
+
+#: modules/checkout/classes/class-cartflows-checkout-markup.php:1646
+msgid "Hide Order Summary"
+msgstr "Dölj beställningssammanfattning "
+
+#: modules/checkout/classes/class-cartflows-checkout-markup.php:1645
+msgid "Show Order Summary"
+msgstr "Visa beställningssammanfattning "
+
+#: modules/checkout/classes/layouts/class-cartflows-modern-checkout.php:240
+msgid "Create account password"
+msgstr "Skapa kontolösenord"
+
+#: modules/checkout/classes/layouts/class-cartflows-modern-checkout.php:199
+msgid "Login is optional, you can continue with your order below."
+msgstr "Inloggning är valfritt, du kan fortsätta med din beställning nedan."
+
+#. translators: %1$s: Link HTML start, %2$s Link HTML End
+#: modules/checkout/classes/layouts/class-cartflows-modern-checkout.php:154
+msgid "Already have an account? %1$1s Log in%2$2s"
+msgstr "Har du redan ett konto? %1$1s Logga in%2$2s"
+
+#. Translators: %s is replaced with Field Icon
+#: modules/checkout/classes/class-cartflows-checkout-fields.php:137
+msgid "%s Have a coupon?"
+msgstr "%s Har du en rabattkod?"
+
+#. Translators: %1$s & %2$s is replaced with Field Name
+#: modules/checkout/classes/class-cartflows-checkout-fields.php:126
+msgid "%1$s Add %2$s"
+msgstr "%1$s Lägg till %2$s"
+
+#: admin-core/inc/global-settings.php:481
+msgid "Enter Google Map API key"
+msgstr "Ange Google Map API-nyckel"
+
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:162
+msgid "Dynamic Offers"
+msgstr "Dynamiskt erbjudande"
+
+#: wizard/ajax/wizard.php:254
+msgid "Oops! Something went wrong. Please refresh the page and try again."
+msgstr "Hoppsan! Något gick fel. Uppdatera sidan och försök igen."
+
+#. translators: %s flow id
+#: admin-core/ajax/ab-steps.php:188
+msgid "Step deleted - %s"
+msgstr "Steg borttaget – %s"
+
+#. translators: %d refers to the total number of taskes completed
+#: libraries/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_Scheduler_command.php:153
+msgid "%d scheduled task completed."
+msgid_plural "%d scheduled tasks completed."
+msgstr[0] "%d schemalagd uppgift slutförd."
+msgstr[1] "%d schemalagda uppgifter slutförda."
+
+#. translators: %d refers to how many scheduled taks were found to run
+#: libraries/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_Scheduler_command.php:100
+msgid "Found %d scheduled task"
+msgid_plural "Found %d scheduled tasks"
+msgstr[0] "Hittade %d schemalagd uppgift"
+msgstr[1] "Hittade %d schemalagda uppgifter"
+
+#. translators: 1: action ID 2: exception message
+#: libraries/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php:170
+msgid "Error processing action %1$s: %2$s"
+msgstr "Fel vid bearbetning av åtgärd %1$s: %2$s"
+
+#. translators: %d: amount of actions
+#: libraries/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php:93
+msgid "Running %d action"
+msgid_plural "Running %d actions"
+msgstr[0] "Kör %d åtgärd"
+msgstr[1] "Kör %d åtgärder"
+
+#. translators: %d: amount of actions
+#: libraries/action-scheduler/classes/migration/Runner.php:82
+msgid "Migrating %d action"
+msgid_plural "Migrating %d actions"
+msgstr[0] "Migrerar %d åtgärd"
+msgstr[1] "Migrerar %d åtgärder"
+
+#: libraries/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore_TaxonomyRegistrar.php:14
+msgid "Action Group"
+msgstr "Åtgärdsgrupp"
+
+#: libraries/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore_PostTypeRegistrar.php:42
+msgid "No actions found in trash"
+msgstr "Inga åtgärder hittades i papperskorgen"
+
+#: libraries/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore_PostTypeRegistrar.php:41
+msgid "No actions found"
+msgstr "Inga åtgärder hittades"
+
+#: libraries/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore_PostTypeRegistrar.php:40
+msgid "Search Scheduled Actions"
+msgstr "Sök schemalagda åtgärder"
+
+#: libraries/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore_PostTypeRegistrar.php:38
+#: libraries/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore_PostTypeRegistrar.php:39
+msgid "View Action"
+msgstr "Visa åtgärd"
+
+#: libraries/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore_PostTypeRegistrar.php:37
+msgid "New Scheduled Action"
+msgstr "Ny schemalagd åtgärd"
+
+#: libraries/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore_PostTypeRegistrar.php:36
+msgid "Edit Scheduled Action"
+msgstr "Redigera schemalagd åtgärd"
+
+#: libraries/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore_PostTypeRegistrar.php:34
+msgid "Add New Scheduled Action"
+msgstr "Lägg till ny schemalagd åtgärd"
+
+#: libraries/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore_PostTypeRegistrar.php:33
+#: admin-core/assets/build/editor-app.js:55
+msgid "Add"
+msgstr "Lägg till"
+
+#: libraries/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore_PostTypeRegistrar.php:32
+msgctxt "Admin menu name"
+msgid "Scheduled Actions"
+msgstr "Schemalagda åtgärder"
+
+#: libraries/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore_PostTypeRegistrar.php:31
+msgid "Scheduled Action"
+msgstr "Schemalagd åtgärd"
+
+#: libraries/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore.php:72
+msgid "Unable to save action."
+msgstr "Kan inte spara åtgärd."
+
+#: libraries/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore.php:238
+msgid "Invalid schedule. Cannot save action."
+msgstr "Ogiltigt schema. Kan inte spara åtgärd."
+
+#: libraries/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:78
+msgid "Database error."
+msgstr "Databasfel."
+
+#: libraries/action-scheduler/classes/ActionScheduler_wcSystemStatus.php:113
+msgid "Action Status"
+msgstr "Åtgärdsstatus"
+
+#: libraries/action-scheduler/classes/ActionScheduler_wcSystemStatus.php:109
+msgid "Data store:"
+msgstr "Datalagring:"
+
+#: libraries/action-scheduler/classes/ActionScheduler_wcSystemStatus.php:105
+msgid "Version:"
+msgstr "Version:"
+
+#. translators: %s: date interval
+#: libraries/action-scheduler/classes/ActionScheduler_ListTable.php:461
+msgid " (%s)"
+msgstr " (%s)"
+
+#. translators: %s: date interval
+#: libraries/action-scheduler/classes/ActionScheduler_ListTable.php:458
+msgid " (%s ago)"
+msgstr " (%s sedan)"
+
+#: libraries/action-scheduler/classes/ActionScheduler_ListTable.php:201
+msgid "Now!"
+msgstr "Nu!"
+
+#. translators: %s: amount of time
+#: libraries/action-scheduler/classes/ActionScheduler_ListTable.php:174
+msgid "%s second"
+msgid_plural "%s seconds"
+msgstr[0] "%s sekund"
+msgstr[1] "%s sekunder"
+
+#. translators: %s: amount of time
+#: libraries/action-scheduler/classes/ActionScheduler_ListTable.php:169
+msgid "%s minute"
+msgid_plural "%s minutes"
+msgstr[0] "%s minut"
+msgstr[1] "%s minuter"
+
+#. translators: %s: amount of time
+#: libraries/action-scheduler/classes/ActionScheduler_ListTable.php:164
+msgid "%s hour"
+msgid_plural "%s hours"
+msgstr[0] "%s timme"
+msgstr[1] "%s timmar"
+
+#. translators: %s: amount of time
+#: libraries/action-scheduler/classes/ActionScheduler_ListTable.php:159
+msgid "%s day"
+msgid_plural "%s days"
+msgstr[0] "%s dag"
+msgstr[1] "%s dagar"
+
+#. translators: %s: amount of time
+#: libraries/action-scheduler/classes/ActionScheduler_ListTable.php:154
+msgid "%s week"
+msgid_plural "%s weeks"
+msgstr[0] "%s vecka"
+msgstr[1] "%s veckor"
+
+#. translators: %s: amount of time
+#: libraries/action-scheduler/classes/ActionScheduler_ListTable.php:149
+msgid "%s month"
+msgid_plural "%s months"
+msgstr[0] "%s månad"
+msgstr[1] "%s månader"
+
+#. translators: %s: amount of time
+#: libraries/action-scheduler/classes/ActionScheduler_ListTable.php:144
+msgid "%s year"
+msgid_plural "%s years"
+msgstr[0] "%s år"
+msgstr[1] "%s år"
+
+#: libraries/action-scheduler/classes/ActionScheduler_ListTable.php:129
+msgid "Run"
+msgstr "Kör"
+
+#: libraries/action-scheduler/classes/ActionScheduler_ListTable.php:101
+msgid "Scheduled Date"
+msgstr "Schemalagt datum"
+
+#: libraries/action-scheduler/classes/ActionScheduler_DataController.php:137
+msgid "Attempting to reduce used memory..."
+msgstr "Försöker minska mängden använt minne …"
+
+#: libraries/action-scheduler/classes/ActionScheduler_AdminView.php:149
+#: libraries/action-scheduler/classes/ActionScheduler_ListTable.php:102
+msgid "Log"
+msgstr "Logg"
+
+#: libraries/action-scheduler/classes/ActionScheduler_AdminView.php:148
+msgid "Scheduled"
+msgstr "Schemalagd"
+
+#: libraries/action-scheduler/classes/ActionScheduler_AdminView.php:146
+msgid "Optional action group."
+msgstr "Valfri åtgärdsgrupp."
+
+#: libraries/action-scheduler/classes/ActionScheduler_AdminView.php:146
+#: libraries/action-scheduler/classes/ActionScheduler_ListTable.php:99
+msgid "Group"
+msgstr "Grupp"
+
+#: libraries/action-scheduler/classes/ActionScheduler_AdminView.php:145
+#: libraries/action-scheduler/classes/ActionScheduler_ListTable.php:98
+msgid "Arguments"
+msgstr "Argument"
+
+#: libraries/action-scheduler/classes/ActionScheduler_AdminView.php:143
+#: libraries/action-scheduler/classes/ActionScheduler_ListTable.php:96
+msgid "Hook"
+msgstr "Åtgärds-hook"
+
+#: libraries/action-scheduler/classes/ActionScheduler_AdminView.php:139
+msgid "Columns"
+msgstr "Kolumner"
+
+#: libraries/action-scheduler/classes/ActionScheduler_AdminView.php:127
+msgid "About"
+msgstr "Om"
+
+#: libraries/action-scheduler/classes/ActionScheduler_AdminView.php:60
+#: libraries/action-scheduler/classes/ActionScheduler_AdminView.php:75
+#: libraries/action-scheduler/classes/ActionScheduler_AdminView.php:76
+#: libraries/action-scheduler/classes/ActionScheduler_ListTable.php:89
+#: libraries/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore_PostTypeRegistrar.php:19
+#: libraries/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore_PostTypeRegistrar.php:30
+msgid "Scheduled Actions"
+msgstr "Schemalagda åtgärder"
+
+#: libraries/action-scheduler/classes/abstracts/ActionScheduler_Store.php:381
+msgid "Canceled"
+msgstr "Avbruten"
+
+#: libraries/action-scheduler/classes/abstracts/ActionScheduler_Store.php:380
+msgid "Failed"
+msgstr "Misslyckades"
+
+#: libraries/action-scheduler/classes/abstracts/ActionScheduler_Store.php:379
+msgid "In-progress"
+msgstr "Pågående"
+
+#: libraries/action-scheduler/classes/abstracts/ActionScheduler_Store.php:378
+msgid "Pending"
+msgstr "Väntande"
+
+#: libraries/action-scheduler/classes/abstracts/ActionScheduler_Store.php:377
+msgid "Complete"
+msgstr "Slutförd"
+
+#: libraries/action-scheduler/classes/abstracts/ActionScheduler_Logger.php:131
+msgid "action ignored"
+msgstr "åtgärd ignorerad"
+
+#. translators: %s: context
+#: libraries/action-scheduler/classes/abstracts/ActionScheduler_Logger.php:129
+msgid "action ignored via %s"
+msgstr "åtgärd ignorerad via %s"
+
+#: libraries/action-scheduler/classes/abstracts/ActionScheduler_Logger.php:123
+msgid "action reset"
+msgstr "åtgärd återställd"
+
+#. translators: %s: exception message
+#: libraries/action-scheduler/classes/abstracts/ActionScheduler_Logger.php:105
+msgid "action failed: %s"
+msgstr "åtgärd misslyckades: %s"
+
+#. translators: 1: context 2: exception message
+#: libraries/action-scheduler/classes/abstracts/ActionScheduler_Logger.php:102
+msgid "action failed via %1$s: %2$s"
+msgstr "åtgärd misslyckades via %1$s: %2$s"
+
+#: libraries/action-scheduler/classes/abstracts/ActionScheduler_Logger.php:94
+msgid "action complete"
+msgstr "åtgärd slutförd"
+
+#. translators: %s: context
+#: libraries/action-scheduler/classes/abstracts/ActionScheduler_Logger.php:92
+msgid "action complete via %s"
+msgstr "åtgärden slutförd via %s"
+
+#: libraries/action-scheduler/classes/abstracts/ActionScheduler_Logger.php:84
+msgid "action started"
+msgstr "åtgärd startad"
+
+#: libraries/action-scheduler/classes/abstracts/ActionScheduler_Logger.php:76
+#: libraries/action-scheduler/classes/data-stores/ActionScheduler_DBLogger.php:138
+msgid "action canceled"
+msgstr "åtgärd avbruten"
+
+#: libraries/action-scheduler/classes/abstracts/ActionScheduler_Logger.php:72
+msgid "action created"
+msgstr "åtgärd skapad"
+
+#: libraries/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php:672
+msgid "Search"
+msgstr "Sök"
+
+#. translators: %s: search query
+#: libraries/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php:567
+msgid "Search results for \"%s\""
+msgstr "Sökresultat för ”%s”"
+
+#: admin-core/views/debugger.php:51
+msgid "Copied to clipboard"
+msgstr "Kopierat till urklipp"
+
+#: admin-core/views/debugger.php:51
+msgid "Copy log"
+msgstr "Kopiera logg"
+
+#: admin-core/inc/log-status.php:210
+msgid "Invalid file."
+msgstr "Ogiltig fil."
+
+#: libraries/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore_PostStatusRegistrar.php:51
+msgctxt "post"
+msgid "In-Progress"
+msgstr "Pågående"
+
+#: libraries/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:840
+msgid "Unknown status found for action."
+msgstr "Okänd status hittades för åtgärd."
+
+#: libraries/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:838
+#: libraries/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore.php:719
+msgid "Invalid action ID. No status found."
+msgstr "Ogiltigt åtgärds-ID. Ingen status hittades."
+
+#. translators: %s: group name
+#: libraries/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:651
+#: libraries/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore.php:593
+msgid "The group \"%s\" does not exist."
+msgstr "Gruppen ”%s” finns inte."
+
+#. translators: %s: action ID
+#: libraries/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:444
+#: libraries/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:535
+#: libraries/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:567
+#: libraries/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:777
+#: libraries/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:819
+#: libraries/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore.php:421
+#: libraries/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore.php:432
+#: libraries/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore.php:459
+#: libraries/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore.php:752
+msgid "Unidentified action %s"
+msgstr "Oidentifierad åtgärd %s"
+
+#. translators: %s: error message
+#: libraries/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:86
+#: libraries/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore.php:35
+#: libraries/action-scheduler/classes/migration/ActionScheduler_DBStoreMigrator.php:44
+msgid "Error saving action: %s"
+msgstr "Fel när åtgärd skulle sparas: %s"
+
+#: libraries/action-scheduler/classes/ActionScheduler_QueueRunner.php:192
+msgid "Every minute"
+msgstr "Varje minut"
+
+#. translators: %s: action HTML
+#: libraries/action-scheduler/classes/ActionScheduler_ListTable.php:402
+msgid "Successfully canceled action: %s"
+msgstr "Åtgärden avbröts: %s"
+
+#. translators: %s: action HTML
+#: libraries/action-scheduler/classes/ActionScheduler_ListTable.php:398
+msgid "Successfully executed action: %s"
+msgstr "Åtgärden genomfördes: %s"
+
+#: libraries/action-scheduler/classes/ActionScheduler_ListTable.php:134
+msgid "Cancel the action now to avoid it being run in future"
+msgstr "Avbryt åtgärden nu för att undvika att den körs i framtiden"
+
+#. translators: 1: action ID 2: schedule
+#: libraries/action-scheduler/classes/ActionScheduler_InvalidActionException.php:21
+msgid "Action [%1$s] has an invalid schedule: %2$s"
+msgstr "Åtgärden [%1$s] har ett ogiltigt schema: %2$s"
+
+#: libraries/action-scheduler/classes/ActionScheduler_AdminView.php:149
+msgid "Activity log for the action."
+msgstr "Aktivitetslogg för åtgärden."
+
+#. translators: %s: date interval
+#: libraries/action-scheduler/classes/ActionScheduler_WPCommentCleaner.php:103
+msgid "This data will be deleted in %s."
+msgstr "Dessa data kommer att tas bort om %s."
+
+#. translators: 1: action ID 2: arguments
+#: libraries/action-scheduler/classes/ActionScheduler_InvalidActionException.php:40
+msgid "Action [%1$s] has invalid arguments. It cannot be JSON decoded to an array. $args = %2$s"
+msgstr "Åtgärd [%1$s] har ogiltiga argument. Den kan inte vara JSON-avkodad till en array. $args = %2$s"
+
+#: libraries/action-scheduler/classes/ActionScheduler_AdminView.php:144
+msgid "Action statuses are Pending, Complete, Canceled, Failed"
+msgstr "Åtgärdsstatusarna är väntande, slutförda, avbrutna, misslyckade"
+
+#: libraries/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore_PostStatusRegistrar.php:36
+msgctxt "post"
+msgid "Failed"
+msgstr "Misslyckades"
+
+#: libraries/action-scheduler/classes/ActionScheduler_wcSystemStatus.php:117
+msgid "Newest Scheduled Date"
+msgstr "Nyaste schemalagda datum"
+
+#: libraries/action-scheduler/classes/ActionScheduler_wcSystemStatus.php:116
+msgid "Oldest Scheduled Date"
+msgstr "Äldsta schemalagda datum"
+
+#: libraries/action-scheduler/classes/ActionScheduler_wcSystemStatus.php:102
+msgid "Action Scheduler"
+msgstr "Schemaläggare för åtgärder"
+
+#. translators: 1: error message 2: filename 3: line
+#: libraries/action-scheduler/classes/abstracts/ActionScheduler_Logger.php:118
+msgid "unexpected shutdown: PHP Fatal error %1$s in %2$s on line %3$s"
+msgstr "oväntad avstängning: Allvarligt PHP-fel %1$s i %2$s på rad %3$s"
+
+#. translators: %s: amount of time
+#: libraries/action-scheduler/classes/abstracts/ActionScheduler_Logger.php:112
+msgid "action timed out after %s seconds"
+msgstr "åtgärd avbröts efter %s sekunder"
+
+#. translators: %s: context
+#: libraries/action-scheduler/classes/abstracts/ActionScheduler_Logger.php:82
+msgid "action started via %s"
+msgstr "åtgärd startades via %s"
+
+#: admin-core/inc/log-status.php:79
+msgid "You don't have permission to view this page."
+msgstr "Du har inte behörighet att visa denna sida."
+
+#: libraries/action-scheduler/classes/ActionScheduler_ActionFactory.php:161
+msgid "Invalid action - must be a recurring action."
+msgstr "Ogiltig åtgärd – måste vara en återkommande åtgärd."
+
+#: classes/class-cartflows-admin.php:126
+#: admin-core/assets/build/editor-app.js:17
+msgid "Step"
+msgstr "Steg"
+
+#: admin-core/inc/global-settings.php:530
+msgid "Delete plugin data on plugin deletion"
+msgstr "Ta bort tilläggets data vid borttagning av tillägg"
+
+#: classes/class-cartflows-flow-frontend.php:84
+msgid "Test mode is active. It can be deactivated from the flow settings in the admin dashboard."
+msgstr "Testläge är aktiverat. Det kan avaktiveras från flödesinställningarna genom adminpanelen."
+
+#: admin-core/inc/flow-meta.php:87
+msgid "Test mode will add random products in your flow if products are not selected in checkout settings, so you can preview it easily while testing."
+msgstr "Testläga kommer lägga till slumpade produkter i ditt flöde om produkter inte är valda i kassainställningarna, så du kan förhandsgranska enkelt medan du testar."
+
+#: admin-core/inc/global-settings.php:535
+msgid "Are you sure? Do you want to delete plugin data while deleting the plugin? Type \"DELETE\" to confirm!"
+msgstr "Är du säker? Vill du ta bort tilläggets data samtidigt som du tar bort tillägget? Skriv \"DELETE\" för att bekräfta!"
+
+#: admin-core/inc/global-settings.php:70
+msgid "Show Ready Templates for"
+msgstr "Visa färdiga mallar för"
+
+#: admin-core/inc/admin-helper.php:421
+msgid "Google Fonts"
+msgstr "Google Fonts"
+
+#: admin-core/inc/admin-helper.php:403
+msgid "System Fonts"
+msgstr "Systemtypsnitt"
+
+#: modules/woo-dynamic-flow/classes/class-cartflows-wd-flow-product-meta.php:149
+msgid "Add to cart"
+msgstr "Lägg till i varukorg"
+
+#: modules/woo-dynamic-flow/classes/class-cartflows-wd-flow-product-meta.php:147
+msgid "Add to Cart text"
+msgstr "Text för \"Lägg till i varukorg\""
+
+#: modules/woo-dynamic-flow/classes/class-cartflows-wd-flow-product-meta.php:139
+msgid "Type to search a flow..."
+msgstr "Skriv för att söka flöde..."
+
+#: modules/woo-dynamic-flow/classes/class-cartflows-wd-flow-product-meta.php:137
+msgid "Select the Flow"
+msgstr "Välj flödet"
+
+#. translators: %1$s,%2$s HTML content
+#: modules/woo-dynamic-flow/classes/class-cartflows-wd-flow-product-meta.php:154
+msgid "If you want to start the flow from the product page, select the appropriate flow & button text field if required. Refer %1$sthis article%2$s for more information."
+msgstr "Om du startar flödet från produktsidan, välj lämpligt flöde & fältet för knapptext måste anges. Läs mer i %1$sden här artikeln%2$s."
+
+#: modules/checkout/templates/checkout/shipping-methods.php:68
+#: woocommerce/template/cart/cart-shipping.php:62
+msgid "Shipping costs are calculated during checkout."
+msgstr "Fraktkostnader räknas ut i kassan."
+
+#: modules/checkout/templates/checkout/shipping-methods.php:60
+#: woocommerce/template/cart/cart-shipping.php:54
+msgid "Shipping options will be updated during checkout."
+msgstr "Fraktalternativ uppdateras i kassan."
+
+#. Translators: $s shipping destination.
+#: modules/checkout/templates/checkout/shipping-methods.php:57
+#: woocommerce/template/cart/cart-shipping.php:51
+msgid "Shipping to %s."
+msgstr "Frakt till %s."
+
+#. translators: %1$s: link html start, %2$s: link html end
+#: admin-core/ajax/importer.php:671
+msgid "To import the premium flow %1$sactivate CartFlows Pro%2$s."
+msgstr "För att importera premium flödet %1$saktivera CartFlows Pro%2$s."
+
+#. translators: %1$s: link html start, %2$s: link html end
+#: admin-core/ajax/importer.php:669
+msgid "Invalid License Key! %1$sActivate CartFlows Pro%2$s"
+msgstr "Ogiltig licensnyckel! %1$sAktivera CartFlows Pro%2$s"
+
+#: classes/class-cartflows-admin.php:201
+msgid "Docs"
+msgstr "Dokumentation"
+
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:352
+msgid "Type to search for a product..."
+msgstr "Skriv för att söka efter en produkt …"
+
+#: libraries/action-scheduler/classes/ActionScheduler_AdminView.php:144
+#: libraries/action-scheduler/classes/ActionScheduler_ListTable.php:97
+#: admin-core/assets/build/editor-app.js:53
+#: admin-core/assets/build/settings-app.js:3
+msgid "Status"
+msgstr "Status"
+
+#: libraries/action-scheduler/classes/ActionScheduler_ListTable.php:133
+#: admin-core/assets/build/editor-app.js:53
+#: admin-core/assets/build/editor-app.js:55
+msgid "Cancel"
+msgstr "Avbryt"
+
+#: classes/importer/batch-process/class-cartflows-importer-elementor.php:51
+msgid "(✕) Invalid content."
+msgstr "(✕) Ogiltigt innehåll."
+
+#: classes/importer/batch-process/helpers/class-wp-background-process-cartflows-sync-library.php:69
+msgid "All processes are complete"
+msgstr "Alla processer är slutförda"
+
+#: admin-core/inc/global-settings.php:325
+#: admin-core/assets/build/settings-app.js:9
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+#: admin-core/inc/global-settings.php:172
+msgid "FaceBook Pixel"
+msgstr "FaceBook Pixel"
+
+#: admin-core/inc/global-settings.php:120
+msgid "Permalinks"
+msgstr "Permalänkar"
+
+#: admin-core/inc/flow-meta.php:45 admin-core/inc/global-settings.php:65
+msgid "General "
+msgstr "Allmänt"
+
+#: admin-core/ajax/flows.php:158 admin-core/ajax/steps.php:415
+#: admin-core/assets/build/editor-app.js:53
+#: admin-core/assets/build/editor-app.js:55
+#: admin-core/assets/build/settings-app.js:3
+msgid "(no title)"
+msgstr "(utan rubrik)"
+
+#: admin-core/api/product/product-data.php:68 admin-core/api/step-data.php:69
+msgid "Step ID."
+msgstr "Steg-ID."
+
+#: admin-core/inc/admin-helper.php:758
+#: admin-core/assets/build/settings-app.js:3
+msgid "Restore"
+msgstr "Återställ"
+
+#: modules/thankyou/classes/class-cartflows-thankyou-meta-data.php:268
+msgid "Advanced Settings"
+msgstr "Avancerade inställningar"
+
+#: modules/thankyou/classes/class-cartflows-thankyou-meta-data.php:254
+msgid "Enable Billing Details"
+msgstr "Aktivera faktureringsdetaljer"
+
+#: modules/thankyou/classes/class-cartflows-thankyou-meta-data.php:248
+msgid "Enable Order Details"
+msgstr "Aktivera beställningsdetaljer"
+
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:942
+msgid "Coupon"
+msgstr "Rabattkod"
+
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:926
+msgid "Search for a product..."
+msgstr "Sök efter en produkt …"
+
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:282
+msgid "Enable Advance Options"
+msgstr "Aktivera avancerade alternativ"
+
+#: modules/landing/classes/class-cartflows-landing-meta-data.php:93
+#: modules/thankyou/classes/class-cartflows-thankyou-meta-data.php:200
+msgid "Shortcode"
+msgstr "Kortkod"
+
+#: modules/thankyou/classes/class-cartflows-thankyou-meta-data.php:236
+msgid "Fields Settings"
+msgstr "Fältinställningar"
+
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:383
+msgid "Global Settings"
+msgstr "Globala inställningar"
+
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:141
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:293
+msgid "Products"
+msgstr "Produkter"
+
+#: admin-core/inc/flow-meta.php:79
+msgid "Sandbox"
+msgstr "Sandbox"
+
+#: admin-core/ajax/ajax-errors.php:61 wizard/ajax/ajax-errors.php:61
+msgid "Sorry, something went wrong."
+msgstr "Något gick fel."
+
+#: admin-core/ajax/ajax-errors.php:60 admin-core/ajax/common-settings.php:220
+#: admin-core/ajax/common-settings.php:275
+#: admin-core/ajax/common-settings.php:379
+#: admin-core/ajax/common-settings.php:404
+#: admin-core/ajax/common-settings.php:435
+#: admin-core/ajax/common-settings.php:459
+#: admin-core/ajax/common-settings.php:483 admin-core/inc/meta-ops.php:32
+#: modules/checkout/classes/class-cartflows-checkout-ajax.php:110
+#: wizard/ajax/ajax-errors.php:60
+msgid "Nonce validation failed"
+msgstr "Validering av engångskod misslyckades"
+
+#: admin-core/ajax/ajax-errors.php:59 wizard/ajax/ajax-errors.php:59
+msgid "Sorry, you are not allowed to do this operation."
+msgstr "Du har inte behörighet att göra denna operation."
+
+#: admin-core/inc/admin-helper.php:684
+msgid "Archived"
+msgstr "Arkiverat"
+
+#: modules/thankyou/classes/class-cartflows-thankyou-meta-data.php:144
+msgid "Enable Advanced Options"
+msgstr "Aktivera avancerade alternativ"
+
+#: classes/importer/batch-process/class-cartflows-importer-elementor.php:46
+msgid "(✕) Empty content."
+msgstr "(✕) Tomt innehåll."
+
+#. translators: 1: The HTTP response code.
+#: classes/importer/batch-process/class-cartflows-batch-process.php:506
+msgid "Unexpected HTTP response code: %s"
+msgstr "Oväntad HTTP-svarskod: %s"
+
+#: admin-core/ajax/importer.php:1337 wizard/ajax/wizard.php:380
+msgid "Successful!"
+msgstr "Lyckad!"
+
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:1517
+#: admin-core/assets/build/editor-app.js:55
+msgid "Collapsible"
+msgstr "Hopfällbar"
+
+#: modules/email-report/templates/email-stat-content.php:112
+#: modules/email-report/templates/email-stat-content.php:247
+#: admin-core/assets/build/editor-app.js:17
+#: admin-core/assets/build/settings-app.js:1
+msgid "Total Visits"
+msgstr "Totalt antal besök"
+
+#: admin-core/inc/global-settings.php:351
+msgid "Enter Google Analytics ID"
+msgstr "Ange Google Analytics-ID"
+
+#: admin-core/api/common-settings.php:128 admin-core/api/flow-data.php:139
+#: admin-core/api/flows.php:242 admin-core/api/home-page.php:102
+#: admin-core/api/product/product-data.php:120 admin-core/api/step-data.php:141
+msgid "Sorry, you cannot list resources."
+msgstr "Du kan inte lista resurser."
+
+#: modules/thankyou/classes/class-cartflows-thankyou-meta-data.php:242
+msgid "Enable Order Overview"
+msgstr "Aktivera beställningsöversikt"
+
+#: modules/elementor/widgets/class-cartflows-el-next-step-button.php:459
+msgid "Hover Animation"
+msgstr "Animering vid hovring"
+
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:356
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:422
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:488
+msgid "Heading Typography"
+msgstr "Typografi, rubrik"
+
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:328
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:393
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:459
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:525
+msgid "Text Typography"
+msgstr "Typografi, text"
+
+#: admin-core/inc/flow-meta.php:70
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:115
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:124
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:133
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:142
+msgid "No"
+msgstr "Nej"
+
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:33
+msgid "Order Details Form."
+msgstr "Beställningsformulär, detaljer"
+
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:772
+msgid "Field Label Color"
+msgstr "Fältrubrik färg"
+
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:738
+#: modules/gutenberg/build/blocks.js:7 modules/gutenberg/build/blocks.js:11
+#: modules/gutenberg/src/components/number-control/index.js:166
+#: modules/gutenberg/src/components/range/Range.js:180
+msgid "Margin"
+msgstr "Marginal"
+
+#. translators: %s: link
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:192
+msgid "The PRO layout options are available in the CartFlows Pro. %1$s  Upgrade Now! %2$s"
+msgstr "Alternativ för PRO layouter är tillgängliga i Cartflows Pro. %1$s Uppgradera nu! %2$s"
+
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:34
+msgid "Checkout Form."
+msgstr "Kassaformulär"
+
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:416
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:646
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:752
+#: modules/beaver-builder/cartflows-bb-optin-form/cartflows-bb-optin-form.php:258
+#: modules/beaver-builder/cartflows-bb-optin-form/cartflows-bb-optin-form.php:421
+#: modules/gutenberg/build/blocks.js:11
+#: modules/gutenberg/dist/blocks.build.js:1
+msgid "Border Radius"
+msgstr "Ramradie"
+
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:352
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:544
+#: modules/beaver-builder/cartflows-bb-optin-form/cartflows-bb-optin-form.php:200
+#: modules/beaver-builder/cartflows-bb-optin-form/cartflows-bb-optin-form.php:346
+msgid "The type of border to use. Double borders must have a width of at least 3px to render properly."
+msgstr "Typen av ram att använda. Dubbla ramar måste ha en bredd på minst 3px för att renderas korrekt."
+
+#: modules/beaver-builder/cartflows-bb-optin-form/cartflows-bb-optin-form.php:34
+msgid "Optin Form."
+msgstr "Opt-in formulär"
+
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:461
+msgid "Button Settings"
+msgstr "Knappinställningar"
+
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:448
+#: modules/gutenberg/build/blocks.js:7 modules/gutenberg/build/blocks.js:11
+msgid "Background"
+msgstr "Bakgrund"
+
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:393
+#: modules/gutenberg/dist/blocks.build.js:1
+msgid "Colors"
+msgstr "Färger"
+
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:378
+msgid "Round Corners"
+msgstr "Runda hörn"
+
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:369
+msgid "Padding Left/Right"
+msgstr "Padding vänster/höger"
+
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:360
+msgid "Padding Top/Bottom"
+msgstr "Padding toppen/botten"
+
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:351
+msgid "Custom Height"
+msgstr "Anpassad höjd"
+
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:342
+msgid "Custom Width"
+msgstr "Anpassad bredd"
+
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:267
+#: modules/gutenberg/build/blocks.js:11
+msgid "Full Width"
+msgstr "Full bredd"
+
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:233
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:262
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:341
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:529
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:458
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:473
+#: modules/beaver-builder/cartflows-bb-optin-form/cartflows-bb-optin-form.php:127
+#: modules/beaver-builder/cartflows-bb-optin-form/cartflows-bb-optin-form.php:189
+#: modules/beaver-builder/cartflows-bb-optin-form/cartflows-bb-optin-form.php:334
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:211
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:239
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:285
+#: modules/gutenberg/build/blocks.js:7 modules/gutenberg/build/blocks.js:11
+#: modules/gutenberg/dist/blocks.build.js:1
+msgid "Typography"
+msgstr "Typografi"
+
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:266
+msgctxt "Width."
+msgid "Auto"
+msgstr "Auto"
+
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:263
+#: admin-core/assets/build/editor-app.js:55 modules/gutenberg/build/blocks.js:7
+#: modules/gutenberg/build/blocks.js:11
+#: modules/gutenberg/src/components/background/index.js:437
+#: modules/gutenberg/src/components/background/index.js:730
+#: modules/gutenberg/src/components/image-size-control/index.js:53
+#: modules/gutenberg/src/components/image-size-control/index.js:83
+#: modules/gutenberg/src/components/image-size-control/index.js:113
+#: modules/gutenberg/src/components/responsive-border/index.js:23
+msgid "Width"
+msgstr "Bredd"
+
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:259
+msgid "Structure"
+msgstr "Struktur"
+
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:239
+msgid "Move Right"
+msgstr "Flytta höger"
+
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:238
+msgid "Move Left"
+msgstr "Flytta vänster"
+
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:237
+msgid "Move Up"
+msgstr "Flytta upp"
+
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:236
+msgid "Move Down"
+msgstr "Flytta ner"
+
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:217
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:233
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:246
+msgid "Hover Styles"
+msgstr "Hovringsstilar"
+
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:208
+msgid "Border Size"
+msgstr "Ramstorlek"
+
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:198
+msgid "3D"
+msgstr "3D"
+
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:197
+msgid "Transparent"
+msgstr "Transparent"
+
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:196
+#: modules/gutenberg/build/blocks.js:7 modules/gutenberg/dist/blocks.build.js:1
+#: modules/gutenberg/src/components/background/index.js:115
+#: modules/gutenberg/src/components/background/index.js:138
+#: modules/gutenberg/src/components/color-switch-control/index.js:36
+msgid "Gradient"
+msgstr "Gradient"
+
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:195
+msgid "Flat"
+msgstr "Platt"
+
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:190
+#: admin-core/assets/build/editor-app.js:53 modules/gutenberg/build/blocks.js:7
+#: modules/gutenberg/src/components/background/index.js:229
+msgid "Type"
+msgstr "Typ"
+
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:164
+msgid "After Text"
+msgstr "Efter text"
+
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:163
+msgid "Before Text"
+msgstr "Före text"
+
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:241
+msgid "Animate Bottom"
+msgstr "Animera botten"
+
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:240
+msgid "Animate Top"
+msgstr "Animera toppen"
+
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:228
+msgid "Fill Background Horizontal"
+msgstr "Fyll bakgrund horisontellt"
+
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:227
+msgid "Fill Background Diagonal"
+msgstr "Fyll bakgrund diagonalt"
+
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:226
+msgid "Fill Background Vertical"
+msgstr "Fyll bakgrund vertikalt"
+
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:225
+msgid "Fill Background From Right"
+msgstr "Fyll bakgrund från höger"
+
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:224
+msgid "Fill Background From Left"
+msgstr "Fyll bakgrund från vänster"
+
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:223
+msgid "Fill Background From Bottom"
+msgstr "Fyll bakgrund från botten"
+
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:222
+msgid "Fill Background From Top"
+msgstr "Fyll bakgrund från toppen"
+
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:221
+msgid "Fade Background"
+msgstr "Tona bakgrund"
+
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:444
+msgid "Apply Hover Color To"
+msgstr "Tillämpa hovringsfärg till"
+
+#: modules/elementor/widgets/class-cartflows-el-next-step-button.php:327
+msgid "Button Size"
+msgstr "Knappstorlek"
+
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:304
+#: modules/elementor/widgets/class-cartflows-el-next-step-button.php:337
+#: modules/gutenberg/build/blocks.js:11
+#: modules/gutenberg/dist/blocks.build.js:1
+msgid "Padding"
+msgstr "Padding"
+
+#: modules/elementor/widgets/class-cartflows-el-next-step-button.php:491
+#: modules/gutenberg/build/blocks.js:7 modules/gutenberg/build/blocks.js:11
+#: modules/gutenberg/dist/blocks.build.js:1
+msgid "Text Alignment"
+msgstr "Textjustering"
+
+#: modules/elementor/widgets/class-cartflows-el-next-step-button.php:418
+msgid "Hover Text Color"
+msgstr "Textfärg vid hovring"
+
+#: modules/elementor/widgets/class-cartflows-el-next-step-button.php:315
+msgid "Justify"
+msgstr "Justera"
+
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:465
+#: modules/elementor/widgets/class-cartflows-el-next-step-button.php:260
+#: modules/gutenberg/build/blocks.js:11
+#: modules/gutenberg/dist/blocks.build.js:1
+msgid "Icon Size"
+msgstr "Ikonstorlek"
+
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:172
+#: modules/elementor/widgets/class-cartflows-el-next-step-button.php:240
+#: modules/gutenberg/dist/blocks.build.js:1
+msgid "Icon Spacing"
+msgstr "Ikonmellanrum"
+
+#: modules/elementor/widgets/class-cartflows-el-next-step-button.php:223
+msgid "Middle"
+msgstr "Mitten"
+
+#: modules/elementor/widgets/class-cartflows-el-next-step-button.php:219
+#: modules/gutenberg/build/blocks.js:11
+#: modules/gutenberg/src/components/spacing-control/index.js:506
+msgid "Top"
+msgstr "Toppen"
+
+#: modules/elementor/widgets/class-cartflows-el-next-step-button.php:200
+#: modules/gutenberg/build/blocks.js:11
+#: modules/gutenberg/dist/blocks.build.js:1
+msgid "After Title"
+msgstr "Efter rubrik"
+
+#: modules/elementor/widgets/class-cartflows-el-next-step-button.php:199
+#: modules/gutenberg/build/blocks.js:11
+#: modules/gutenberg/dist/blocks.build.js:1
+msgid "Before Title"
+msgstr "Före rubrik"
+
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:160
+#: modules/elementor/widgets/class-cartflows-el-next-step-button.php:195
+#: modules/gutenberg/dist/blocks.build.js:1
+msgid "Icon Position"
+msgstr "Ikonposition"
+
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:149
+#: modules/elementor/widgets/class-cartflows-el-next-step-button.php:187
+#: modules/gutenberg/build/blocks.js:11
+#: modules/gutenberg/dist/blocks.build.js:1
+#: modules/gutenberg/src/components/icon-picker/index.js:20
+msgid "Icon"
+msgstr "Ikon"
+
+#: modules/elementor/widgets/class-cartflows-el-next-step-button.php:176
+#: modules/gutenberg/dist/blocks.build.js:1
+msgid "Sub Title"
+msgstr "Underrubrik"
+
+#: modules/elementor/widgets/class-cartflows-el-next-step-button.php:166
+msgid "BUY NOW"
+msgstr "KÖP NU"
+
+#: modules/elementor/widgets/class-cartflows-el-next-step-button.php:164
+#: admin-core/assets/build/editor-app.js:53
+#: modules/gutenberg/build/blocks.js:11
+#: modules/gutenberg/dist/blocks.build.js:1
+msgid "Title"
+msgstr "Rubrik"
+
+#: modules/elementor/widgets/class-cartflows-el-next-step-button.php:483
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:536
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:627
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:716
+#: admin-core/assets/build/editor-app.js:55 modules/gutenberg/build/blocks.js:7
+#: modules/gutenberg/dist/blocks.build.js:1
+msgid "Content"
+msgstr "Innehåll"
+
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:338
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:497
+#: modules/gutenberg/dist/blocks.build.js:1
+msgid "Downloads"
+msgstr "Nedladdningar"
+
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:284
+#: modules/elementor/widgets/class-cartflows-el-next-step-button.php:299
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:294
+#: modules/gutenberg/build/blocks.js:11
+#: modules/gutenberg/dist/blocks.build.js:1
+msgid "Alignment"
+msgstr "Justering"
+
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:153
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:229
+#: modules/gutenberg/build/blocks.js:11
+#: modules/gutenberg/dist/blocks.build.js:1
+msgid "Spacing"
+msgstr "Mellanrum"
+
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:129
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:193
+#: modules/gutenberg/build/blocks.js:7 modules/gutenberg/dist/blocks.build.js:1
+msgid "Billing Address"
+msgstr "Faktureringsadress"
+
+#: admin-core/inc/admin-helper.php:738
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:172
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:184
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:196
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:208
+msgid "Hide"
+msgstr "Dölj"
+
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:171
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:183
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:195
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:207
+msgid "Show"
+msgstr "Visa"
+
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:960
+msgid "Error Messages"
+msgstr "Felmeddelande"
+
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:356
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:548
+#: modules/beaver-builder/cartflows-bb-optin-form/cartflows-bb-optin-form.php:204
+#: modules/beaver-builder/cartflows-bb-optin-form/cartflows-bb-optin-form.php:350
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:515
+#: modules/elementor/widgets/class-cartflows-el-optin-form.php:268
+#: modules/gutenberg/build/blocks.js:11
+#: modules/gutenberg/dist/blocks.build.js:1
+#: modules/gutenberg/src/components/responsive-border/index.js:134
+msgid "Dashed"
+msgstr "Streckad"
+
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:357
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:549
+#: modules/beaver-builder/cartflows-bb-optin-form/cartflows-bb-optin-form.php:205
+#: modules/beaver-builder/cartflows-bb-optin-form/cartflows-bb-optin-form.php:351
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:514
+#: modules/elementor/widgets/class-cartflows-el-optin-form.php:267
+#: modules/gutenberg/build/blocks.js:11
+#: modules/gutenberg/dist/blocks.build.js:1
+#: modules/gutenberg/src/components/responsive-border/index.js:127
+msgid "Dotted"
+msgstr "Prickad"
+
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:358
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:550
+#: modules/beaver-builder/cartflows-bb-optin-form/cartflows-bb-optin-form.php:206
+#: modules/beaver-builder/cartflows-bb-optin-form/cartflows-bb-optin-form.php:352
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:513
+#: modules/elementor/widgets/class-cartflows-el-optin-form.php:266
+#: modules/gutenberg/build/blocks.js:11
+#: modules/gutenberg/dist/blocks.build.js:1
+#: modules/gutenberg/src/components/responsive-border/index.js:141
+msgid "Double"
+msgstr "Dubbel"
+
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:355
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:547
+#: modules/beaver-builder/cartflows-bb-optin-form/cartflows-bb-optin-form.php:203
+#: modules/beaver-builder/cartflows-bb-optin-form/cartflows-bb-optin-form.php:349
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:512
+#: modules/elementor/widgets/class-cartflows-el-optin-form.php:265
+#: modules/gutenberg/build/blocks.js:11
+#: modules/gutenberg/dist/blocks.build.js:1
+#: modules/gutenberg/src/components/responsive-border/index.js:120
+msgid "Solid"
+msgstr "Solid"
+
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:511
+#: modules/elementor/widgets/class-cartflows-el-optin-form.php:264
+msgid "Inherit"
+msgstr "Ärv"
+
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:350
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:542
+#: modules/beaver-builder/cartflows-bb-optin-form/cartflows-bb-optin-form.php:198
+#: modules/beaver-builder/cartflows-bb-optin-form/cartflows-bb-optin-form.php:344
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:506
+#: modules/elementor/widgets/class-cartflows-el-optin-form.php:259
+#: modules/gutenberg/dist/blocks.build.js:1
+msgid "Border Style"
+msgstr "Ramstil"
+
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:1056
+msgid "Billing Details"
+msgstr "Faktureringsdetaljer"
+
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:190
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:208
+#: modules/gutenberg/build/blocks.js:11
+#: modules/gutenberg/dist/blocks.build.js:1
+msgid "Select Layout"
+msgstr "Välj layout"
+
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:201
+#: modules/gutenberg/build/blocks.js:11
+#: modules/gutenberg/dist/blocks.build.js:1
+msgid "Layout"
+msgstr "Layout"
+
+#: modules/elementor/widgets/class-cartflows-el-next-step-button.php:202
+#: modules/gutenberg/build/blocks.js:11
+#: modules/gutenberg/dist/blocks.build.js:1
+msgid "After Title & Sub Title"
+msgstr "Efter rubrik och underrubrik"
+
+#: modules/elementor/widgets/class-cartflows-el-next-step-button.php:201
+#: modules/gutenberg/build/blocks.js:11
+#: modules/gutenberg/dist/blocks.build.js:1
+msgid "Before Title & Sub Title"
+msgstr "Före rubrik och underrubrik"
+
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:725
+#: modules/elementor/widgets/class-cartflows-el-next-step-button.php:411
+#: modules/elementor/widgets/class-cartflows-el-optin-form.php:403
+#: modules/gutenberg/build/blocks.js:11
+#: modules/gutenberg/dist/blocks.build.js:1
+#: modules/gutenberg/src/components/responsive-border/index.js:52
+msgid "Hover"
+msgstr "Hovring"
+
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:318
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:447
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:668
+#: modules/elementor/widgets/class-cartflows-el-next-step-button.php:389
+#: modules/elementor/widgets/class-cartflows-el-optin-form.php:373
+#: modules/gutenberg/build/blocks.js:11
+#: modules/gutenberg/dist/blocks.build.js:1
+#: modules/gutenberg/src/components/responsive-border/index.js:47
+msgid "Border"
+msgstr "Ram"
+
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:620
+#: modules/elementor/widgets/class-cartflows-el-next-step-button.php:351
+#: modules/elementor/widgets/class-cartflows-el-optin-form.php:343
+#: modules/gutenberg/build/blocks.js:7 modules/gutenberg/build/blocks.js:11
+#: modules/gutenberg/dist/blocks.build.js:1
+#: modules/gutenberg/src/components/responsive-border/index.js:48
+#: modules/gutenberg/src/components/typography/index.js:278
+msgid "Normal"
+msgstr "Normal"
+
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:563
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:685
+#: modules/elementor/widgets/class-cartflows-el-next-step-button.php:397
+#: modules/elementor/widgets/class-cartflows-el-optin-form.php:301
+#: modules/elementor/widgets/class-cartflows-el-optin-form.php:381
+msgid "Rounded Corners"
+msgstr "Rundade hörn"
+
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:377
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:582
+#: modules/beaver-builder/cartflows-bb-optin-form/cartflows-bb-optin-form.php:230
+#: modules/beaver-builder/cartflows-bb-optin-form/cartflows-bb-optin-form.php:377
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:530
+#: modules/elementor/widgets/class-cartflows-el-optin-form.php:278
+#: modules/gutenberg/dist/blocks.build.js:1
+msgid "Border Width"
+msgstr "Rambredd"
+
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:207
+#: modules/beaver-builder/cartflows-bb-optin-form/cartflows-bb-optin-form.php:115
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:244
+#: modules/gutenberg/build/blocks.js:11
+#: modules/gutenberg/dist/blocks.build.js:1
+msgid "Global"
+msgstr "Global"
+
+#: classes/class-cartflows-functions.php:596
+msgid "Learn More »"
+msgstr "Lär dig mer »"
+
+#: modules/elementor/widgets/class-cartflows-el-next-step-button.php:431
+msgid "Hover Background Color"
+msgstr "Bakgrundsfärg vid hovring"
+
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:469
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:679
+#: modules/gutenberg/build/blocks.js:7 modules/gutenberg/dist/blocks.build.js:1
+msgid "Customer Details"
+msgstr "Kunddetaljer"
+
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:249
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:389
+msgid "Sections Content"
+msgstr "Sektionsinnehåll"
+
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:221
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:360
+msgid "Sections Heading"
+msgstr "Sektionsrubrik"
+
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:172
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:253
+msgid "Spacing Between Sections"
+msgstr "Mellanrum mellan sektioner"
+
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:138
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:205
+#: modules/gutenberg/build/blocks.js:7 modules/gutenberg/dist/blocks.build.js:1
+msgid "Shipping Address"
+msgstr "Leveransadress"
+
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:688
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:826
+#: modules/gutenberg/build/blocks.js:11
+#: modules/gutenberg/dist/blocks.build.js:1
+msgid "Description Color"
+msgstr "Färg på beskrivning"
+
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:301
+#: modules/beaver-builder/cartflows-bb-optin-form/cartflows-bb-optin-form.php:161
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:472
+#: modules/elementor/widgets/class-cartflows-el-optin-form.php:237
+#: modules/gutenberg/build/blocks.js:11
+#: modules/gutenberg/dist/blocks.build.js:1
+msgid "Field Background Color"
+msgstr "Fältets bakgrundsfärg"
+
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:670
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:805
+#: modules/gutenberg/build/blocks.js:11
+#: modules/gutenberg/dist/blocks.build.js:1
+msgid "Payment Section"
+msgstr "Sektion för betalning"
+
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:101
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:159
+#: modules/gutenberg/build/blocks.js:7 modules/gutenberg/dist/blocks.build.js:1
+msgid "Thank You Text"
+msgstr "Text för ”Tack”"
+
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:1062
+msgid "Shipping Details"
+msgstr "Leveransdetaljer"
+
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:33
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:66
+#: modules/gutenberg/classes/class-cartflows-block-config.php:373
+#: modules/gutenberg/build/blocks-placeholder.js:9
+#: modules/gutenberg/dist/blocks.build.js:1
+msgid "Checkout Form"
+msgstr "Kassaformulär"
+
+#: admin-core/inc/admin-menu.php:297 admin-core/assets/build/editor-app.js:1
+#: admin-core/assets/build/settings-app.js:1
+msgid "Home"
+msgstr "Hem"
+
+#. translators: %s flow id
+#: admin-core/ajax/steps.php:367
+msgid "This step can not be deleted."
+msgstr "Detta steg kan inte tas bort."
+
+#. Translators: %d stock amount
+#: admin-core/ajax/meta-data.php:137
+msgid "Stock: %d"
+msgstr "Lager: %d"
+
+#: admin/bsf-analytics/class-bsf-analytics.php:422
+msgid "Learn More."
+msgstr "Lär dig mer."
+
+#: admin/bsf-analytics/class-bsf-analytics.php:417
+msgid " This will be applicable for all sites from the network."
+msgstr "Detta kommer att gälla för alla webbplatser från nätverket."
+
+#: admin/bsf-analytics/class-bsf-analytics.php:370
+msgid "Usage Tracking"
+msgstr "Användningsspårning"
+
+#: admin/bsf-analytics/class-bsf-analytics.php:263
+msgid "No Thanks"
+msgstr "Nej tack"
+
+#: admin/bsf-analytics/class-bsf-analytics.php:252
+msgid "Yes! Allow it"
+msgstr "Ja! Tillåt det"
+
+#. translators: %s usage doc link
+#: admin/bsf-analytics/class-bsf-analytics.php:242
+msgid " Know More."
+msgstr "Lär dig mer."
+
+#: libraries/astra-notices/class-astra-notices.php:119
+msgid "WordPress Nonce not validated."
+msgstr "WordPress engångskod inte validerad."
+
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:788
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:949
+#: admin-core/assets/build/editor-app.js:55
+msgid "Product Options"
+msgstr "Produktalternativ"
+
+#: woocommerce/template/order/order-details.php:98
+msgid "Note:"
+msgstr "Obs:"
+
+#: woocommerce/template/order/order-details.php:50
+msgid "Order details"
+msgstr "Orderuppgifter"
+
+#: admin-core/inc/global-settings.php:427
+msgid "Purchase"
+msgstr "Köp"
+
+#: admin-core/inc/global-settings.php:397
+msgid "Add To Cart"
+msgstr "Lägg i varukorgen"
+
+#: admin-core/inc/global-settings.php:381
+msgid "Begin Checkout"
+msgstr "Påbörja betalning"
+
+#: modules/thankyou/classes/class-cartflows-thankyou-meta-data.php:274
+msgid "Thank You Page Text"
+msgstr "Text på tack-sidan"
+
+#: modules/flow/classes/class-cartflows-step-post-type.php:250
+msgid "Optin (Woo)"
+msgstr "Optin (Woo)"
+
+#: modules/optin/classes/class-cartflows-optin-markup.php:338
+#: modules/optin/classes/class-cartflows-optin-markup.php:342
+msgid "Please select a Simple, Virtual and Free product."
+msgstr "Välj en enkel-, virtuell- och gratisprodukt."
+
+#: modules/optin/classes/class-cartflows-optin-markup.php:329
+msgid "Please update the selected product's price to zero (0)."
+msgstr "Uppdatera den valda produktens pris till noll (0)."
+
+#: modules/gutenberg/classes/class-cartflows-init-blocks.php:255
+#: modules/optin/classes/class-cartflows-optin-markup.php:312
+msgid "No product is selected. Please select a Simple, Virtual and Free product from the meta settings."
+msgstr "Inga produkter är valda. Välj en enkel-, virtuell- och gratisprodukt från metainställningarna."
+
+#: modules/optin/classes/class-cartflows-optin-markup.php:252
+msgid "Please place shortcode on Optin step-type only."
+msgstr "Placera kortkoden enbart på optin-steget."
+
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:289
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:299
+#: modules/elementor/widgets/class-cartflows-el-next-step-button.php:311
+#: modules/elementor/widgets/class-cartflows-el-next-step-button.php:503
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:306
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:587
+#: modules/gutenberg/build/blocks.js:7 modules/gutenberg/build/blocks.js:11
+#: modules/gutenberg/dist/blocks.build.js:1
+#: modules/gutenberg/src/components/spacing-control/index.js:509
+msgid "Right"
+msgstr "Höger"
+
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:287
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:297
+#: modules/elementor/widgets/class-cartflows-el-next-step-button.php:307
+#: modules/elementor/widgets/class-cartflows-el-next-step-button.php:499
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:302
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:583
+#: modules/gutenberg/build/blocks.js:7 modules/gutenberg/build/blocks.js:11
+#: modules/gutenberg/dist/blocks.build.js:1
+msgid "Center"
+msgstr "Centrerad"
+
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:288
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:298
+#: modules/elementor/widgets/class-cartflows-el-next-step-button.php:303
+#: modules/elementor/widgets/class-cartflows-el-next-step-button.php:495
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:298
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:579
+#: modules/gutenberg/build/blocks.js:7 modules/gutenberg/build/blocks.js:11
+#: modules/gutenberg/dist/blocks.build.js:1
+#: modules/gutenberg/src/components/spacing-control/index.js:515
+msgid "Left"
+msgstr "Vänster"
+
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:573
+#: modules/gutenberg/build/blocks.js:7 modules/gutenberg/build/blocks.js:11
+#: modules/gutenberg/dist/blocks.build.js:1
+#: modules/gutenberg/src/components/responsive-focal-point-picker/index.js:56
+msgid "Position"
+msgstr "Position"
+
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:511
+#: modules/thankyou/classes/class-cartflows-thankyou-meta-data.php:132
+#: modules/gutenberg/build/blocks.js:7 modules/gutenberg/dist/blocks.build.js:1
+#: modules/gutenberg/src/components/typography/font-typography.js:143
+#: modules/gutenberg/src/components/typography/font-typography.js:148
+#: modules/gutenberg/src/components/typography/font-typography.js:153
+msgid "Font Size"
+msgstr "Textstorlek"
+
+#: classes/class-cartflows-default-meta.php:714
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:694
+#: modules/gutenberg/dist/blocks.build.js:1
+msgid "Submit"
+msgstr "Skicka"
+
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:691
+#: modules/gutenberg/build/blocks.js:11
+msgid "Button Text"
+msgstr "Knapptext"
+
+#: modules/elementor/widgets/class-cartflows-el-optin-form.php:324
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:506
+#: modules/gutenberg/dist/blocks.build.js:1
+msgid "Submit Button"
+msgstr "Skicka-knapp"
+
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:709
+msgid "Fields to pass, separated by commas"
+msgstr "Fält att skicka, separerade med komma"
+
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:708
+#: modules/thankyou/classes/class-cartflows-thankyou-meta-data.php:284
+msgid "Enter comma seprated field name. E.g. first_name, last_name"
+msgstr "Ange kommaseparerade fältnamn som first_name, last_name"
+
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:705
+msgid "Enter form field"
+msgstr "Ange formulärfält"
+
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:701
+msgid "You can pass specific fields from the form to next step as URL query parameters."
+msgstr "Du kan skicka specifika fält från formuläret till nästa steg som URL query parametrar."
+
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:698
+msgid "Pass Fields as URL Parameters"
+msgstr "Skicka fält som URL-parametrar"
+
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:350
+msgid "Select Free and Virtual product only."
+msgstr "Välj virtuell- och gratisprodukt enbart."
+
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:349
+msgid "Select Free Product"
+msgstr "Välj gratisprodukt"
+
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:657
+#: modules/thankyou/classes/class-cartflows-thankyou-meta-data.php:209
+msgid "Add this shortcode to your optin page"
+msgstr "Lägg till denna kortkod på din optin-sida"
+
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:155
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:300
+#: admin-core/assets/build/editor-app.js:55
+msgid "Form Fields"
+msgstr "Formulärfält"
+
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:685
+msgid "Optin Settings"
+msgstr "Optin-inställningar"
+
+#: modules/thankyou/classes/class-cartflows-thankyou-meta-data.php:291
+msgid "https://"
+msgstr "https://"
+
+#: modules/thankyou/classes/class-cartflows-thankyou-meta-data.php:288
+msgid "Redirect Link"
+msgstr "Omdirigeringslänk"
+
+#: modules/thankyou/classes/class-cartflows-thankyou-meta-data.php:281
+msgid "Redirect After Purchase"
+msgstr "Omdirigera efter köp"
+
+#: modules/flow/classes/class-cartflows-step-meta-base.php:58
+#: admin-core/assets/build/editor-app.js:55
+msgid "Design"
+msgstr "Design"
+
+#: modules/flow/classes/class-cartflows-flow-post-type.php:194
+#: admin-core/assets/build/editor-app.js:17
+msgid "Upgrade to CartFlows Pro"
+msgstr "Uppgradera till CartFlows Pro"
+
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:1118
+msgid "It will change the Place Order Button text on checkout page."
+msgstr "Det ändrar knapptexten för knappen Lägg order på kassa-sidan."
+
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:1114
+msgid "Place Order Button Text"
+msgstr "Knapptext för knappen Lägg order"
+
+#: classes/class-cartflows-default-meta.php:162
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:1117
+msgid "Place Order"
+msgstr "Lägg beställning"
+
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:1155
+msgid "Users will able to remove products from the checkout page."
+msgstr "Användare kommer kunna ta bort produkter från kassa-sidan."
+
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:1152
+msgid "Enable cart editing on checkout"
+msgstr "Aktivera varukorgsförändring i kassan"
+
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:1045
+msgid "Checkout Settings"
+msgstr "Inställningar för kassan"
+
+#: modules/checkout/classes/class-cartflows-checkout-ajax.php:166
+msgid " has been removed."
+msgstr "har tagits bort."
+
+#: modules/checkout/classes/class-cartflows-checkout-ajax.php:163
+msgid "Sorry there was a problem removing "
+msgstr "Tyvärr uppstod ett problem att ta bort"
+
+#: modules/checkout/classes/class-cartflows-checkout-ajax.php:145
+msgid "Coupon has been removed."
+msgstr "Kupongen har tagits bort."
+
+#: modules/checkout/classes/class-cartflows-checkout-ajax.php:142
+msgid "Sorry there was a problem removing this coupon."
+msgstr "Tyvärr uppstod ett problem när kupongen skulle tas bort."
+
+#: admin-core/inc/global-settings.php:275
+msgid "Purchase Complete"
+msgstr "Köp lyckades"
+
+#: admin-core/inc/global-settings.php:259
+#: admin-core/inc/global-settings.php:412
+msgid "Add Payment Info"
+msgstr "Lägg till betalningsinformation"
+
+#: admin-core/inc/global-settings.php:243
+msgid "Initiate Checkout"
+msgstr "Till kassan"
+
+#: admin-core/inc/global-settings.php:198
+msgid "Enter Facebook pixel ID"
+msgstr "Ange Facebook pixel ID"
+
+#: admin-core/api/flows.php:189 admin-core/inc/admin-helper.php:599
+#: admin-core/inc/admin-helper.php:676 admin-core/inc/admin-helper.php:746
+#: admin-core/inc/admin-helper.php:766
+#: libraries/action-scheduler/classes/ActionScheduler_ListTable.php:92
+#: admin-core/assets/build/editor-app.js:35
+#: admin-core/assets/build/editor-app.js:53
+#: admin-core/assets/build/settings-app.js:3
+msgid "Delete"
+msgstr "Ta bort"
+
+#: admin-core/api/flows.php:167 admin-core/inc/admin-helper.php:638
+#: admin-core/inc/admin-helper.php:711 admin-core/inc/store-checkout.php:100
+#: libraries/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore_PostTypeRegistrar.php:35
+#: admin-core/assets/build/editor-app.js:53
+#: admin-core/assets/build/settings-app.js:3
+msgid "Edit"
+msgstr "Redigera"
+
+#: modules/flow/classes/class-cartflows-flow-post-type.php:213
+msgid "Slug"
+msgstr "Permalänk"
+
+#: admin-core/inc/global-settings.php:160
+msgid "Flow Base"
+msgstr "Flödesbas"
+
+#: admin-core/inc/global-settings.php:154
+msgid "Step Base"
+msgstr "Stegbas"
+
+#: admin-core/inc/global-settings.php:150
+msgid "Post Type Permalink Base"
+msgstr "Inläggstyp permalänkbas"
+
+#: admin-core/inc/global-settings.php:143
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:1029
+#: modules/landing/classes/class-cartflows-landing-meta-data.php:114
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:670
+#: modules/thankyou/classes/class-cartflows-thankyou-meta-data.php:222
+msgid "Step Slug"
+msgstr "Stegs permalänk"
+
+#: admin-core/inc/flow-meta.php:51 admin-core/inc/global-settings.php:138
+msgid "Flow Slug"
+msgstr "Flödes permalänk"
+
+#: admin-core/inc/global-settings.php:133
+msgid "Flow and Step Slug"
+msgstr "Flödes och stegs permalänk"
+
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:180
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:800
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:956
+msgid "Checkout Offer"
+msgstr "Erbjudande i kassan"
+
+#: compatibilities/plugins/class-cartflows-learndash-compatibility.php:118
+msgid "Select CartFlows Template for this Course"
+msgstr "Välj CartFlows mall för den här kursen"
+
+#. translators: 1: anchor start, 2: anchor close
+#: compatibilities/plugins/class-cartflows-learndash-compatibility.php:112
+msgid "Non-enrolled students will redirect to the selected CartFlows template. If you have not created any Flow already, add new Flow from %1$shere%2$s."
+msgstr "Oanmälda studenter omdirigeras till vald mall i CartFlows. Om du inte har skapat något Flöde ännu kan du göra det %1$shärifrån%2$s."
+
+#: compatibilities/plugins/class-cartflows-learndash-compatibility.php:85
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:354
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:546
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:220
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:249
+#: modules/beaver-builder/cartflows-bb-optin-form/cartflows-bb-optin-form.php:202
+#: modules/beaver-builder/cartflows-bb-optin-form/cartflows-bb-optin-form.php:348
+#: modules/gutenberg/build/blocks.js:7 modules/gutenberg/build/blocks.js:11
+#: modules/gutenberg/dist/blocks.build.js:1
+#: modules/gutenberg/src/components/background/index.js:99
+#: modules/gutenberg/src/components/gutter-options/index.js:6
+#: modules/gutenberg/src/components/gutter-options/index.js:7
+#: modules/gutenberg/src/components/responsive-border/index.js:113
+#: modules/gutenberg/src/components/typography/index.js:328
+msgid "None"
+msgstr "Ingen"
+
+#: modules/checkout/classes/class-cartflows-checkout-markup.php:459
+#: modules/optin/classes/class-cartflows-optin-markup.php:220
+#: modules/thankyou/classes/class-cartflows-thankyou-markup.php:135
+msgid "Click Here to Reload"
+msgstr "Klicka här för att ladda om"
+
+#: modules/flow/classes/class-cartflows-flow-post-type.php:73
+msgid "Name: "
+msgstr "Namn:"
+
+#: modules/flow/classes/class-cartflows-flow-post-type.php:73
+msgid "Flow: "
+msgstr "Flöde:"
+
+#: modules/flow/classes/class-cartflows-step-post-type.php:319
+msgctxt "cartflows"
+msgid "CartFlows — Boxed"
+msgstr "CartFlows - Inramat"
+
+#: woocommerce/template/checkout/form-shipping.php:61
+msgid "Additional information"
+msgstr "Ytterligare information"
+
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:1064
+#: woocommerce/template/checkout/form-shipping.php:30
+msgid "Ship to a different address?"
+msgstr "Skicka till en annan adress?"
+
+#: modules/gutenberg/classes/class-cartflows-init-blocks.php:152
+msgid "No product is selected. Please select products from the checkout meta settings to continue."
+msgstr "Ingen produkt är vald. Välj produkter från kassans metainställningar för att fortsätta."
+
+#: modules/checkout/classes/class-cartflows-checkout-markup.php:458
+#: modules/optin/classes/class-cartflows-optin-markup.php:219
+#: modules/thankyou/classes/class-cartflows-thankyou-markup.php:134
+msgid "WooCommerce functions do not exist. If you are in an IFrame, please reload it."
+msgstr "WooCommerce-funktioner saknas. Om du är i en iframe, vänligen ladda om den."
+
+#: wizard/inc/wizard-core.php:155
+msgid "Skip Setup"
+msgstr "Hoppa över konfiguration"
+
+#: wizard/inc/wizard-core.php:154
+msgid "Start Wizard"
+msgstr "Starta guide"
+
+#: classes/class-cartflows-flow-frontend.php:89
+msgid "Click here to disable it"
+msgstr "Kicka här för att inaktivera det"
+
+#: admin-core/inc/flow-meta.php:93 admin-core/assets/build/editor-app.js:1
+#: admin-core/assets/build/editor-app.js:33
+msgid "Analytics"
+msgstr "Analys"
+
+#: modules/flow/classes/class-cartflows-step-post-type.php:278
+msgid "Downsell (Woo)"
+msgstr "Downsell (Woo)"
+
+#: modules/flow/classes/class-cartflows-step-post-type.php:271
+msgid "Upsell (Woo)"
+msgstr "Upsell (Woo)"
+
+#: admin-core/ajax/importer.php:537
+#: modules/flow/classes/class-cartflows-step-post-type.php:264
+msgid "Thank You (Woo)"
+msgstr "Tack (Woo)"
+
+#: admin-core/ajax/importer.php:533
+#: modules/flow/classes/class-cartflows-step-post-type.php:257
+msgid "Checkout (Woo)"
+msgstr "Kassan (Woo)"
+
+#: classes/logger/class-cartflows-log-handler-file.php:355
+#: classes/logger/class-cartflows-log-handler-file.php:375
+msgid "This method should not be called before plugins_loaded."
+msgstr "Denna metod borde inte anropas före plugins_loaded."
+
+#. translators: 1: class name 2: Cartflows_Log_Handler_Interface
+#: classes/logger/class-cartflows-wc-logger.php:58
+msgid "The provided handler %1$s does not implement %2$s."
+msgstr "Den tillhandahållna hanteraren %1$s implementerar inte %2$s."
+
+#: admin-core/inc/flow-meta.php:66
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:114
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:123
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:132
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:141
+msgid "Yes"
+msgstr "Ja"
+
+#: admin-core/ajax/importer.php:529
+msgid "Sales Landing"
+msgstr "Försäljning landning"
+
+#: admin-core/views/debugger.php:91 includes/admin/cartflows-error-log.php:71
+msgid "There are currently no logs to view."
+msgstr "Det finns inga loggar att visa."
+
+#: admin-core/views/debugger.php:85 includes/admin/cartflows-error-log.php:66
+msgid "Delete log"
+msgstr "Radera logg"
+
+#. translators: %1$s: timestamp1, %2$s: timestamp2
+#: admin-core/views/debugger.php:36 includes/admin/cartflows-error-log.php:37
+msgid "%1$s at %2$s"
+msgstr "%1$s den %2$s"
+
+#. translators: 1: Cartflows_WC_Logger::log 2: level
+#: classes/logger/class-cartflows-wc-logger.php:136
+msgid "%1$s was called with an invalid level \"%2$s\"."
+msgstr "%1$s anropades med en ogiltig nivå \"%2$s\"."
+
+#: modules/checkout/classes/layouts/class-cartflows-modern-checkout.php:194
+#: woocommerce/template/global/form-login.php:54
+msgid "Lost your password?"
+msgstr "Glömt lösenord?"
+
+#: woocommerce/template/global/form-login.php:47
+msgid "Remember me"
+msgstr "Kom ihåg mig"
+
+#: modules/checkout/classes/layouts/class-cartflows-modern-checkout.php:193
+#: woocommerce/template/global/form-login.php:51
+msgid "Login"
+msgstr "Logga in"
+
+#: modules/checkout/classes/layouts/class-cartflows-modern-checkout.php:185
+#: woocommerce/template/global/form-login.php:38
+msgid "Password"
+msgstr "Lösenord"
+
+#: woocommerce/template/global/form-login.php:34
+msgid "Username or email"
+msgstr "Användarnamn eller e-post"
+
+#: woocommerce/template/checkout/payment.php:47
+msgid "Update totals"
+msgstr "Uppdatera totalsumma"
+
+#. translators: $1 and $2 opening and closing emphasis tags respectively
+#: woocommerce/template/checkout/payment.php:45
+msgid "Since your browser does not support JavaScript, or it is disabled, please ensure you click the %1$sUpdate Totals%2$s button before placing your order. You may be charged more than the amount stated above if you fail to do so."
+msgstr "Eftersom din webbläsare inte stöder JavaScript, eller det är inaktiverat, se till att du klickar på knappen %1$sUppdatera totalsumma%2$s innan du lägger din order. Annars kan du debiteras mer än det belopp som anges ovan om du inte gör det."
+
+#: woocommerce/template/checkout/payment.php:36
+msgid "Please fill in your details above to see available payment methods."
+msgstr "Ange dina uppgifter ovan för att se tillgängliga betalsätt."
+
+#: woocommerce/template/checkout/payment.php:36
+msgid "Sorry, it seems that there are no available payment methods for your state. Please contact us if you require assistance or wish to make alternate arrangements."
+msgstr "Det verkar inte finnas några betalsätt tillgängliga för ditt område. Kontakta oss om du behöver assistans eller vill lösa alternativa upplägg."
+
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:151
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:254
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:166
+#: modules/gutenberg/build/blocks.js:11
+#: modules/gutenberg/dist/blocks.build.js:1
+msgid "Two Step"
+msgstr "Tvåsteg"
+
+#: modules/flow/classes/class-cartflows-step-meta-base.php:82
+msgid "Custom script lets you add your own custom script on front end of this flow page."
+msgstr "Anpassat script låter dig lägga till egna, anpassade script på framsidan av denna flödessida."
+
+#: admin-core/inc/flow-meta.php:108 admin-core/inc/flow-meta.php:113
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:1175
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:1182
+#: modules/flow/classes/class-cartflows-step-meta-base.php:80
+#: modules/landing/classes/class-cartflows-landing-meta-data.php:128
+#: modules/landing/classes/class-cartflows-landing-meta-data.php:135
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:726
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:732
+#: modules/thankyou/classes/class-cartflows-thankyou-meta-data.php:306
+#: modules/thankyou/classes/class-cartflows-thankyou-meta-data.php:312
+msgid "Custom Script"
+msgstr "Anpassat script"
+
+#. Translators: $s shipping destination.
+#: modules/checkout/templates/checkout/shipping-methods.php:77
+#: woocommerce/template/cart/cart-shipping.php:71
+msgid "Enter a different address"
+msgstr "Skicka till annan adress"
+
+#. Translators: $s shipping destination.
+#: modules/checkout/templates/checkout/shipping-methods.php:76
+#: woocommerce/template/cart/cart-shipping.php:70
+msgid "No shipping options were found for %s."
+msgstr "Inga fraktalternativ hittades för %s."
+
+#: modules/checkout/templates/checkout/shipping-methods.php:70
+#: woocommerce/template/cart/cart-shipping.php:64
+msgid "Enter your address to view shipping options."
+msgstr "Ange din adress för att se fraktalternativ."
+
+#. Translators: $s shipping destination.
+#: modules/checkout/templates/checkout/shipping-methods.php:58
+#: woocommerce/template/cart/cart-shipping.php:52
+msgid "Change address"
+msgstr "Ändra leveransadress"
+
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:1070
+#: woocommerce/template/checkout/form-checkout.php:58
+msgid "Your order"
+msgstr "Din order"
+
+#: woocommerce/template/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr "Du måste vara inloggad för att kunna betala."
+
+#: modules/checkout/classes/layouts/class-cartflows-modern-checkout.php:211
+#: woocommerce/template/checkout/form-billing.php:53
+msgid "Create an account?"
+msgstr "Skapa ett konto?"
+
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:1058
+#: woocommerce/template/checkout/form-billing.php:28
+msgid "Billing details"
+msgstr "Fakturauppgifter"
+
+#: woocommerce/template/checkout/form-billing.php:24
+msgid "Billing &amp; Shipping"
+msgstr "Fakturering &amp; Leverans"
+
+#: woocommerce/template/checkout/thankyou.php:72
+msgid "Payment method:"
+msgstr "Betalsätt:"
+
+#: woocommerce/template/checkout/thankyou.php:66
+msgid "Total:"
+msgstr "Totalt:"
+
+#: woocommerce/template/checkout/thankyou.php:60
+msgid "Email:"
+msgstr "E-post:"
+
+#: woocommerce/template/checkout/thankyou.php:54
+msgid "Date:"
+msgstr "Datum:"
+
+#: woocommerce/template/checkout/thankyou.php:49
+msgid "Order number:"
+msgstr "Ordernummer:"
+
+#: classes/class-cartflows-default-meta.php:547
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:102
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:161
+#: modules/thankyou/classes/class-cartflows-thankyou-meta-data.php:277
+#: woocommerce/template/checkout/thankyou.php:42
+#: woocommerce/template/checkout/thankyou.php:86
+#: modules/gutenberg/build/blocks.js:7 modules/gutenberg/dist/blocks.build.js:1
+msgid "Thank you. Your order has been received."
+msgstr "Tack! Din order har mottagits."
+
+#: woocommerce/template/checkout/thankyou.php:36
+msgid "My account"
+msgstr "Mitt konto"
+
+#: woocommerce/template/checkout/thankyou.php:34
+msgid "Pay"
+msgstr "Betala"
+
+#: woocommerce/template/checkout/thankyou.php:31
+msgid "Unfortunately your order cannot be processed as the originating bank/merchant has declined your transaction. Please attempt your purchase again."
+msgstr "Tyvärr kunde inte den order hanteras då bank/kortutgivare nekade transaktionen. Försök igen."
+
+#: woocommerce/template/checkout/form-login.php:26
+msgid "Click here to login"
+msgstr "Klicka här för att logga in"
+
+#: woocommerce/template/checkout/form-login.php:26
+msgid "Returning customer?"
+msgstr "Återkommande kund?"
+
+#: modules/checkout/templates/checkout/order-review-table.php:17
+#: modules/checkout/templates/checkout/order-review-table.php:43
+#: woocommerce/template/checkout/review-order.php:24
+#: woocommerce/template/checkout/review-order.php:56
+msgid "Subtotal"
+msgstr "Delsumma"
+
+#: modules/checkout/templates/checkout/order-review-table.php:81
+#: woocommerce/template/checkout/review-order.php:103
+#: woocommerce/template/order/order-details.php:57
+msgid "Total"
+msgstr "Totalt"
+
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:917
+#: modules/checkout/templates/checkout/order-review-table.php:16
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:343
+#: woocommerce/template/checkout/review-order.php:23
+#: woocommerce/template/order/order-details.php:56
+#: admin-core/assets/build/editor-app.js:1
+#: admin-core/assets/build/editor-app.js:55
+#: admin-core/assets/build/settings-app.js:1
+msgid "Product"
+msgstr "Produkt"
+
+#: woocommerce/template/checkout/form-coupon.php:38
+msgid "Apply coupon"
+msgstr "Tillämpa rabattkod"
+
+#: woocommerce/template/checkout/form-coupon.php:34
+msgid "Coupon code"
+msgstr "Rabattkod"
+
+#: woocommerce/template/checkout/form-coupon.php:31
+msgid "If you have a coupon code, please apply it below."
+msgstr "Om du har en rabattkod, tillämpa den nedan."
+
+#: woocommerce/template/checkout/form-coupon.php:26
+msgid "Click here to enter your code"
+msgstr "Klicka här för att ange din kod"
+
+#: woocommerce/template/checkout/form-coupon.php:26
+msgid "Have a coupon?"
+msgstr "Har du en rabattkupong?"
+
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:1510
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:241
+#: admin-core/assets/build/editor-app.js:55
+msgid "Required"
+msgstr "Obligatoriskt"
+
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:1493
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:233
+#: admin-core/assets/build/editor-app.js:55
+msgid "Placeholder"
+msgstr "Platshållare"
+
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:1463
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:203
+#: admin-core/assets/build/editor-app.js:55
+msgid "Checked"
+msgstr "Markerad"
+
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:1484
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:224
+#: admin-core/assets/build/editor-app.js:55
+msgid "Options"
+msgstr "Alternativ"
+
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:1434
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:174
+#: admin-core/assets/build/editor-app.js:53
+msgid "100%"
+msgstr "100&nbsp;%"
+
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:1430
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:170
+#: admin-core/assets/build/editor-app.js:53
+msgid "50%"
+msgstr "50&nbsp;%"
+
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:1426
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:166
+#: admin-core/assets/build/editor-app.js:53
+msgid "33%"
+msgstr "33&nbsp;%"
+
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:1441
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:181
+msgid "Field Label"
+msgstr "Fältetikett"
+
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:1420
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:160
+msgid "Field Width"
+msgstr "Fältbredd"
+
+#: admin-core/inc/global-settings.php:93 admin-core/inc/global-settings.php:493
+msgid "Other"
+msgstr "Annat"
+
+#: admin-core/api/flows.php:182 admin-core/assets/build/settings-app.js:3
+msgid "Export"
+msgstr "Exportera"
+
+#: modules/beaver-builder/cartflows-bb-optin-form/cartflows-bb-optin-form.php:97
+#: modules/elementor/widgets/class-cartflows-el-optin-form.php:144
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:417
+msgid "Floating Labels"
+msgstr "Flytande etiketter"
+
+#: modules/checkout/classes/class-cartflows-checkout-markup.php:1383
+#: modules/checkout/classes/class-cartflows-checkout-markup.php:1433
+#: modules/checkout/templates/checkout/collapsed-order-summary.php:46
+#: admin-core/assets/build/settings-app.js:3
+msgid "Apply"
+msgstr "Verkställ"
+
+#: modules/checkout/classes/class-cartflows-checkout-markup.php:1382
+#: modules/checkout/classes/class-cartflows-checkout-markup.php:1424
+#: modules/checkout/templates/checkout/collapsed-order-summary.php:41
+msgid "Coupon Code"
+msgstr "Rabattkod"
+
+#: classes/importer/batch-process/class-cartflows-importer-elementor.php:62
+msgid "Invalid content. Expected an array."
+msgstr "Ogiltigt innehåll. Väntade en array."
+
+#. Translators: %d: interval
+#: classes/importer/batch-process/helpers/class-wp-background-process.php:440
+msgid "Every %d Minutes"
+msgstr "Var %d:e minut"
+
+#: classes/class-cartflows-admin.php:81 wizard/views/wizard-base.php:19
+msgid "CartFlows Setup"
+msgstr "Inställningar för CartFlows"
+
+#: wizard/inc/wizard-core.php:152
+msgid "It is easy to use the CartFlows. Please use the setup wizard to quick start setup."
+msgstr "Det är lätt att använda CartFlows! Använd installationsguiden för att komma igång snabbt."
+
+#: wizard/inc/wizard-core.php:151
+msgid "Thanks for installing and using CartFlows!"
+msgstr "Tack för att du installerar och använder CartFlows!"
+
+#: classes/class-cartflows-loader.php:604
+msgid "Install WooCommerce"
+msgstr "Installera WooCommerce"
+
+#: classes/class-cartflows-loader.php:597
+msgid "Activate WooCommerce"
+msgstr "Aktivera WooCommerce"
+
+#. translators: %s: html tags
+#: classes/class-cartflows-loader.php:587
+msgid "This %1$sCartFlows%2$s page requires %1$sWooCommerce%2$s plugin installed & activated."
+msgstr "Denna %1$sCartFlows%2$s kräver att tillägget %1$sWooCommerce%2$s är installerat och aktiverat."
+
+#: admin-core/api/flows.php:175 admin-core/inc/admin-helper.php:590
+#: admin-core/inc/admin-helper.php:667 admin-core/assets/build/editor-app.js:53
+#: admin-core/assets/build/settings-app.js:3
+msgid "Clone"
+msgstr "Klona"
+
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:1630
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:815
+#: admin-core/assets/build/editor-app.js:53
+msgid "Remove"
+msgstr "Radera"
+
+#: admin-core/inc/admin-menu.php:512
+msgid "Ultra-Bold 900"
+msgstr "Ultra-Bold 900"
+
+#: admin-core/inc/admin-menu.php:511
+msgid "Extra-Bold 800"
+msgstr "Extra-Bold 800"
+
+#: admin-core/inc/admin-menu.php:510
+msgid "Bold 700"
+msgstr "Bold 700"
+
+#: admin-core/inc/admin-menu.php:509
+msgid "Semi-Bold 600"
+msgstr "Semi-Bold 600"
+
+#: admin-core/inc/admin-menu.php:508
+msgid "Medium 500"
+msgstr "Medium 500"
+
+#: admin-core/inc/admin-menu.php:507
+msgid "Normal 400"
+msgstr "Normal 400"
+
+#: admin-core/inc/admin-menu.php:506
+msgid "Light 300"
+msgstr "Light 300"
+
+#: admin-core/inc/admin-menu.php:505
+msgid "Extra-Light 200"
+msgstr "Extra-Light 200"
+
+#: admin-core/inc/admin-menu.php:504
+msgid "Thin 100"
+msgstr "Thin 100"
+
+#: classes/importer/class-cartflows-api.php:427
+msgid "Request successfully processed!"
+msgstr "Förfrågan hanterad utan problem!"
+
+#: admin-core/inc/admin-menu.php:277 admin-core/inc/admin-menu.php:278
+#: classes/class-cartflows-admin.php:200
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:169
+#: modules/landing/classes/class-cartflows-landing-meta-data.php:58
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:307
+#: modules/thankyou/classes/class-cartflows-thankyou-meta-data.php:58
+#: admin-core/assets/build/editor-app.js:1
+#: admin-core/assets/build/editor-app.js:33
+#: admin-core/assets/build/editor-app.js:55
+#: admin-core/assets/build/settings-app.js:1
+msgid "Settings"
+msgstr "Inställningar"
+
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:183
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:132
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:94
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:1022
+#: modules/elementor/widgets/class-cartflows-el-next-step-button.php:157
+#: modules/elementor/widgets/class-cartflows-el-next-step-button.php:291
+#: modules/elementor/widgets/class-cartflows-el-optin-form.php:160
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:152
+#: modules/landing/classes/class-cartflows-landing-meta-data.php:107
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:663
+#: modules/thankyou/classes/class-cartflows-thankyou-meta-data.php:215
+#: modules/gutenberg/build/blocks.js:7 modules/gutenberg/dist/blocks.build.js:1
+#: modules/gutenberg/src/components/inspector-tabs/InspectorTabs.js:149
+msgid "General"
+msgstr "Allmänt"
+
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:140
+#: modules/flow/classes/class-cartflows-flow-shortcodes.php:152
+msgid "Next Step"
+msgstr "Nästa steg"
+
+#: admin-core/inc/flow-meta.php:84
+msgid "Enable Test Mode"
+msgstr "Aktivera testläge"
+
+#. translators: %s flow id
+#: admin-core/ajax/flows.php:1105
+msgid "Steps sorted for flow - %s"
+msgstr "Steg sorterade för flöde - %s"
+
+#. translators: %s flow id
+#: admin-core/ajax/flows.php:1065
+msgid "Steps not sorted for flow - %s"
+msgstr "Steg inte sorterade för flöde - %s"
+
+#. translators: %s flow id
+#: admin-core/ajax/steps.php:358
+msgid "Step deleted for flow - %s"
+msgstr "Steg raderade för flöde - %s"
+
+#. translators: %s flow id
+#: admin-core/ajax/steps.php:315
+msgid "Step not deleted for flow - %s"
+msgstr "Steg inte raderade för flöde - %s"
+
+#: modules/flow/classes/class-cartflows-step-post-type.php:320
+msgctxt "cartflows"
+msgid "Template for Page Builders"
+msgstr "Mall för sidbyggare"
+
+#: modules/flow/classes/class-cartflows-step-post-type.php:225
+msgid "Step Flow"
+msgstr "Stegflöde"
+
+#: modules/flow/classes/class-cartflows-step-post-type.php:215
+msgid "Step Type"
+msgstr "Stegtyp"
+
+#: modules/flow/classes/class-cartflows-step-post-type.php:174
+msgid "New Step Name"
+msgstr "Nytt stegnamn"
+
+#: modules/flow/classes/class-cartflows-step-post-type.php:172
+msgid "Update Step"
+msgstr "Uppdatera steg"
+
+#: modules/flow/classes/class-cartflows-step-post-type.php:168
+#: admin-core/assets/build/editor-app.js:1
+#: admin-core/assets/build/editor-app.js:35
+msgid "All Steps"
+msgstr "Alla steg"
+
+#: modules/flow/classes/class-cartflows-step-post-type.php:167
+msgid "Search Steps"
+msgstr "Sök steg"
+
+#: modules/flow/classes/class-cartflows-step-post-type.php:166
+msgctxt "flow step singular name"
+msgid "Step"
+msgstr "Steg"
+
+#: modules/flow/classes/class-cartflows-step-post-type.php:165
+msgctxt "flow step general name"
+msgid "Steps"
+msgstr "Steg"
+
+#. translators: %s: singular custom post type name
+#: modules/flow/classes/class-cartflows-flow-post-type.php:350
+#: modules/flow/classes/class-cartflows-step-post-type.php:423
+msgid "%s draft updated."
+msgstr "Uppdaterat utkastet %s."
+
+#. translators: %s: singular custom post type name
+#: modules/flow/classes/class-cartflows-flow-post-type.php:348
+#: modules/flow/classes/class-cartflows-step-post-type.php:421
+msgid "%s scheduled for."
+msgstr "%s schemalagd för."
+
+#. translators: %s: singular custom post type name
+#: modules/flow/classes/class-cartflows-flow-post-type.php:344
+#: modules/flow/classes/class-cartflows-step-post-type.php:417
+msgid "%s saved."
+msgstr "%s sparad."
+
+#. translators: %s: singular custom post type name
+#: modules/flow/classes/class-cartflows-flow-post-type.php:346
+#: modules/flow/classes/class-cartflows-step-post-type.php:419
+msgid "%s submitted."
+msgstr "%s skickad."
+
+#. translators: %s: singular custom post type name
+#: modules/flow/classes/class-cartflows-flow-post-type.php:342
+#: modules/flow/classes/class-cartflows-step-post-type.php:415
+msgid "%s published."
+msgstr "%s publicerad."
+
+#. translators: %1$s: singular custom post type name ,%2$s: date and time of
+#. the revision
+#: modules/flow/classes/class-cartflows-flow-post-type.php:340
+#: modules/flow/classes/class-cartflows-step-post-type.php:413
+msgid "%1$s restored to revision from %2$s"
+msgstr "%1$s återställd till revision från %2$s"
+
+#. translators: %s: singular custom post type name
+#: modules/flow/classes/class-cartflows-flow-post-type.php:336
+#: modules/flow/classes/class-cartflows-step-post-type.php:409
+msgid "Custom %s deleted."
+msgstr "Anpassad %s raderad."
+
+#. translators: %s: singular custom post type name
+#: modules/flow/classes/class-cartflows-flow-post-type.php:334
+#: modules/flow/classes/class-cartflows-step-post-type.php:407
+msgid "Custom %s updated."
+msgstr "Anpassad %s uppdaterad."
+
+#. translators: %s: singular custom post type name
+#: modules/flow/classes/class-cartflows-flow-post-type.php:332
+#: modules/flow/classes/class-cartflows-flow-post-type.php:338
+#: modules/flow/classes/class-cartflows-step-post-type.php:405
+#: modules/flow/classes/class-cartflows-step-post-type.php:411
+msgid "%s updated."
+msgstr "%s uppdaterad."
+
+#: admin-core/inc/admin-menu.php:249 admin-core/inc/admin-menu.php:250
+#: admin-core/assets/build/editor-app.js:1
+#: admin-core/assets/build/editor-app.js:53
+#: admin-core/assets/build/editor-app.js:55
+#: admin-core/assets/build/settings-app.js:1
+msgid "Flows"
+msgstr "Flöden"
+
+#: admin-core/api/flows.php:159 admin-core/inc/admin-helper.php:631
+#: admin-core/inc/admin-helper.php:704 admin-core/inc/store-checkout.php:93
+#: admin-core/views/debugger.php:41 includes/admin/cartflows-error-log.php:42
+#: modules/flow/classes/class-cartflows-flow-post-type.php:229
+#: admin-core/assets/build/editor-app.js:1
+#: admin-core/assets/build/editor-app.js:33
+#: admin-core/assets/build/editor-app.js:53
+#: admin-core/assets/build/settings-app.js:3
+msgid "View"
+msgstr "Visa"
+
+#: modules/flow/classes/class-cartflows-flow-post-type.php:112
+msgid "New Flow Name"
+msgstr "Nytt flödesnamn"
+
+#: modules/flow/classes/class-cartflows-flow-post-type.php:110
+msgid "Update Flow"
+msgstr "Uppdatera flöde"
+
+#: modules/flow/classes/class-cartflows-flow-post-type.php:109
+#: modules/flow/classes/class-cartflows-flow-post-type.php:111
+#: modules/flow/classes/class-cartflows-step-post-type.php:171
+#: modules/flow/classes/class-cartflows-step-post-type.php:173
+#: admin-core/assets/build/settings-app.js:1
+msgid "Add New"
+msgstr "Lägg till ny"
+
+#: modules/flow/classes/class-cartflows-flow-post-type.php:108
+#: admin-core/assets/build/settings-app.js:3
+msgid "View Flow"
+msgstr "Visa flöde"
+
+#: classes/class-cartflows-flow-frontend.php:63
+#: modules/flow/classes/class-cartflows-flow-post-type.php:107
+#: admin-core/assets/build/settings-app.js:3
+msgid "Edit Flow"
+msgstr "Redigera flöde"
+
+#: modules/flow/classes/class-cartflows-flow-post-type.php:106
+msgid "All Flows"
+msgstr "Alla flöden"
+
+#: modules/flow/classes/class-cartflows-flow-post-type.php:105
+#: admin-core/assets/build/settings-app.js:3
+msgid "Search Flows"
+msgstr "Sök flöden"
+
+#: modules/flow/classes/class-cartflows-flow-post-type.php:104
+msgctxt "flow singular name"
+msgid "Flow"
+msgstr "Flöde"
+
+#: modules/flow/classes/class-cartflows-flow-post-type.php:103
+msgctxt "flow general name"
+msgid "Flows"
+msgstr "Flöden"
+
+#: admin-core/inc/global-settings.php:81
+msgid "Beaver Builder"
+msgstr "Beaver Builder"
+
+#: admin-core/inc/global-settings.php:85
+msgid "Divi"
+msgstr "Divi"
+
+#: admin-core/inc/global-settings.php:77
+msgid "Elementor"
+msgstr "Elementor"
+
+#: modules/flow/classes/class-cartflows-step-post-type.php:169
+msgid "Edit Step"
+msgstr "Redigera steg"
+
+#: modules/flow/classes/class-cartflows-step-post-type.php:170
+#: admin-core/assets/build/editor-app.js:55
+msgid "View Step"
+msgstr "Visa steg"
+
+#: admin-core/ajax/importer.php:522 admin-core/ajax/importer.php:549
+#: admin-core/assets/build/editor-app.js:7
+msgid "Thank You"
+msgstr "Tack"
+
+#: admin-core/ajax/importer.php:518
+msgid "Checkout"
+msgstr "Kassa"
+
+#: admin-core/ajax/importer.php:545
+#: modules/flow/classes/class-cartflows-step-post-type.php:243
+msgid "Landing"
+msgstr "Landning"
+
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:710
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:839
+#: modules/thankyou/classes/class-cartflows-thankyou-meta-data.php:166
+#: modules/gutenberg/dist/blocks.build.js:1
+msgid "Section Background Color"
+msgstr "Sektionens bakgrundsfärg"
+
+#: modules/thankyou/classes/class-cartflows-thankyou-meta-data.php:150
+msgid "Container Width (In px)"
+msgstr "Behållarbredd (px)"
+
+#: modules/thankyou/classes/class-cartflows-thankyou-meta-data.php:139
+msgid "Advanced Options"
+msgstr "Avancerade alternativ"
+
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:385
+#: modules/thankyou/classes/class-cartflows-thankyou-meta-data.php:98
+#: modules/thankyou/classes/class-cartflows-thankyou-meta-data.php:120
+#: modules/gutenberg/build/blocks.js:7 modules/gutenberg/build/blocks.js:11
+#: modules/gutenberg/dist/blocks.build.js:1
+#: modules/gutenberg/src/components/background/index.js:128
+#: modules/gutenberg/src/components/background/index.js:245
+#: modules/gutenberg/src/components/color-switch-control/index.js:47
+#: modules/gutenberg/src/components/responsive-border/index.js:25
+msgid "Color"
+msgstr "Färg"
+
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:139
+#: modules/thankyou/classes/class-cartflows-thankyou-meta-data.php:114
+#: admin-core/assets/build/editor-app.js:53
+#: modules/gutenberg/build/blocks.js:11
+#: modules/gutenberg/dist/blocks.build.js:1
+msgid "Text"
+msgstr "Text"
+
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:120
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:403
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:181
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:587
+#: modules/thankyou/classes/class-cartflows-thankyou-meta-data.php:207
+#: modules/gutenberg/build/blocks.js:7 modules/gutenberg/dist/blocks.build.js:1
+msgid "Order Details"
+msgstr "Beställningsinformation"
+
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:748
+msgid "Highlight Area Background Color"
+msgstr "Markerat områdes bakgrundsfärg"
+
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:734
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:352
+#: modules/gutenberg/build/blocks.js:7 modules/gutenberg/dist/blocks.build.js:1
+msgid "Sections"
+msgstr "Sektioner"
+
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:626
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:331
+#: modules/beaver-builder/cartflows-bb-optin-form/cartflows-bb-optin-form.php:407
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:718
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:752
+#: modules/elementor/widgets/class-cartflows-el-next-step-button.php:448
+#: modules/elementor/widgets/class-cartflows-el-optin-form.php:421
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:623
+#: modules/gutenberg/dist/blocks.build.js:1
+msgid "Border Hover Color"
+msgstr "Ramens hovringsfärg"
+
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:509
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:433
+#: modules/beaver-builder/cartflows-bb-optin-form/cartflows-bb-optin-form.php:320
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:688
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:611
+#: modules/gutenberg/build/blocks.js:11
+#: modules/gutenberg/dist/blocks.build.js:1
+msgid "Background Hover Color"
+msgstr "Bakgrundens hovringsfärg"
+
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:465
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:411
+#: modules/beaver-builder/cartflows-bb-optin-form/cartflows-bb-optin-form.php:292
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:658
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:599
+#: modules/gutenberg/build/blocks.js:11
+#: modules/gutenberg/dist/blocks.build.js:1
+msgid "Text Hover Color"
+msgstr "Textens hovringsfärg"
+
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:219
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:247
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:441
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:674
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:861
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:397
+#: modules/beaver-builder/cartflows-bb-optin-form/cartflows-bb-optin-form.php:278
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:197
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:225
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:253
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:300
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:365
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:431
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:497
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:643
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:345
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:627
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:732
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:812
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:1029
+#: modules/elementor/widgets/class-cartflows-el-next-step-button.php:358
+#: modules/elementor/widgets/class-cartflows-el-optin-form.php:350
+#: modules/elementor/widgets/class-cartflows-el-optin-form.php:410
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:319
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:368
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:398
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:464
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:523
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:554
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:615
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:645
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:704
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:734
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:593
+#: modules/gutenberg/build/blocks.js:7 modules/gutenberg/build/blocks.js:11
+#: modules/gutenberg/dist/blocks.build.js:1
+msgid "Text Color"
+msgstr "Textfärg"
+
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:437
+#: modules/beaver-builder/cartflows-bb-optin-form/cartflows-bb-optin-form.php:274
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:529
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:591
+#: modules/gutenberg/build/blocks.js:11
+msgid "Buttons"
+msgstr "Knappar"
+
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:287
+#: modules/beaver-builder/cartflows-bb-optin-form/cartflows-bb-optin-form.php:147
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:513
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:460
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:929
+#: modules/elementor/widgets/class-cartflows-el-optin-form.php:226
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:479
+#: modules/gutenberg/build/blocks.js:11
+#: modules/gutenberg/dist/blocks.build.js:1
+msgid "Label Color"
+msgstr "Etikettfärg"
+
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:398
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:605
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:840
+#: modules/beaver-builder/cartflows-bb-optin-form/cartflows-bb-optin-form.php:245
+#: modules/beaver-builder/cartflows-bb-optin-form/cartflows-bb-optin-form.php:393
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:498
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:703
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:547
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:996
+#: modules/elementor/widgets/class-cartflows-el-optin-form.php:290
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:497
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:617
+#: modules/gutenberg/build/blocks.js:11
+#: modules/gutenberg/dist/blocks.build.js:1
+msgid "Border Color"
+msgstr "Ramfärg"
+
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:468
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:485
+msgid "Text / Placeholder Color"
+msgstr "Text/platshållares färg"
+
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:453
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:623
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:473
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:567
+msgid "Left Right Spacing"
+msgstr "Vänster höger mellanrum"
+
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:438
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:603
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:467
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:561
+msgid "Top Bottom Spacing"
+msgstr "Topp botten mellanrum"
+
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:268
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:423
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:588
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:461
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:555
+#: modules/gutenberg/build/blocks.js:7
+#: modules/gutenberg/src/components/background/index.js:179
+#: modules/gutenberg/src/components/background/index.js:505
+#: modules/gutenberg/src/components/background/index.js:720
+msgid "Custom"
+msgstr "Anpassad"
+
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:419
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:584
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:457
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:551
+msgid "Extra Large"
+msgstr "Extra stor"
+
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:485
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:824
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:874
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:425
+#: modules/beaver-builder/cartflows-bb-optin-form/cartflows-bb-optin-form.php:306
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:268
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:314
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:379
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:445
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:511
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:483
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:673
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:649
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:773
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:983
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:1045
+#: modules/elementor/widgets/class-cartflows-el-next-step-button.php:371
+#: modules/elementor/widgets/class-cartflows-el-optin-form.php:363
+#: modules/elementor/widgets/class-cartflows-el-optin-form.php:433
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:422
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:477
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:567
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:658
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:747
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:491
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:605
+#: modules/gutenberg/build/blocks.js:11
+#: modules/gutenberg/dist/blocks.build.js:1
+msgid "Background Color"
+msgstr "Bakgrundsfärg"
+
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:415
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:580
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:453
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:547
+#: modules/gutenberg/src/components/gutter-options/index.js:25
+msgid "Large"
+msgstr "Stor"
+
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:411
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:576
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:449
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:543
+#: modules/gutenberg/src/components/gutter-options/index.js:19
+msgid "Medium"
+msgstr "Medium"
+
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:407
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:572
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:445
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:539
+#: modules/gutenberg/src/components/gutter-options/index.js:13
+msgid "Small"
+msgstr "Liten"
+
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:403
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:568
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:441
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:535
+msgid "Extra Small"
+msgstr "Extra liten"
+
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:397
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:562
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:435
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:529
+#: modules/gutenberg/build/blocks.js:7 modules/gutenberg/dist/blocks.build.js:1
+#: modules/gutenberg/src/components/background/index.js:423
+#: modules/gutenberg/src/components/background/index.js:694
+msgid "Size"
+msgstr "Storlek"
+
+#: admin-core/inc/admin-helper.php:386 admin-core/inc/flow-meta.php:62
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:167
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:194
+#: modules/beaver-builder/cartflows-bb-optin-form/cartflows-bb-optin-form.php:96
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:358
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:1457
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:1474
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:183
+#: modules/elementor/widgets/class-cartflows-el-optin-form.php:143
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:197
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:214
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:413
+#: admin-core/assets/build/editor-app.js:55 modules/gutenberg/build/blocks.js:7
+#: modules/gutenberg/build/blocks.js:11
+#: modules/gutenberg/dist/blocks.build.js:1
+#: modules/gutenberg/src/components/background/index.js:504
+#: modules/gutenberg/src/components/typography/font-typography.js:169
+#: modules/gutenberg/src/components/typography/font-typography.js:209
+#: modules/gutenberg/src/components/typography/index.js:274
+#: modules/gutenberg/src/components/typography/index.js:321
+msgid "Default"
+msgstr "Standard"
+
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:273
+#: modules/beaver-builder/cartflows-bb-optin-form/cartflows-bb-optin-form.php:137
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:338
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:424
+#: modules/elementor/widgets/class-cartflows-el-optin-form.php:199
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:402
+msgid "Input Fields"
+msgstr "Inmatningsfält"
+
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:342
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:407
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:473
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:303
+#: modules/gutenberg/build/blocks.js:11
+msgid "Heading Color"
+msgstr "Rubrikfärg"
+
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:211
+#: modules/beaver-builder/cartflows-bb-optin-form/cartflows-bb-optin-form.php:119
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:263
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:252
+#: modules/elementor/widgets/class-cartflows-el-optin-form.php:168
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:389
+#: modules/gutenberg/build/blocks.js:11
+#: modules/gutenberg/dist/blocks.build.js:1 wizard/assets/build/wizard-app.js:5
+#: wizard/assets/src/wizard-steps/GlobalCheckout.js:407
+msgid "Primary Color"
+msgstr "Primär färg"
+
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:204
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:277
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:183
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:186
+#: modules/beaver-builder/cartflows-bb-optin-form/cartflows-bb-optin-form.php:112
+#: modules/beaver-builder/cartflows-bb-optin-form/cartflows-bb-optin-form.php:141
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:150
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:352
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:432
+#: modules/elementor/widgets/class-cartflows-el-optin-form.php:207
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:407
+#: modules/gutenberg/build/blocks.js:7 modules/gutenberg/build/blocks.js:11
+#: modules/gutenberg/dist/blocks.build.js:1
+#: modules/gutenberg/src/components/inspector-tabs/InspectorTabs.js:169
+#: modules/gutenberg/src/components/responsive-border/index.js:22
+#: modules/gutenberg/src/components/typography/font-typography.js:197
+msgid "Style"
+msgstr "Stil"
+
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:243
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:193
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:289
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:377
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:286
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:505
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:598
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:687
+#: modules/thankyou/classes/class-cartflows-thankyou-meta-data.php:92
+#: modules/gutenberg/build/blocks.js:7 modules/gutenberg/build/blocks.js:11
+#: modules/gutenberg/dist/blocks.build.js:1
+msgid "Heading"
+msgstr "Rubrik"
+
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:268
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:319
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:378
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:543
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:395
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:425
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:518
+#: modules/thankyou/classes/class-cartflows-thankyou-meta-data.php:104
+#: modules/thankyou/classes/class-cartflows-thankyou-meta-data.php:126
+#: modules/gutenberg/build/blocks.js:7 modules/gutenberg/dist/blocks.build.js:1
+#: modules/gutenberg/src/components/typography/font-typography.js:166
+msgid "Font Family"
+msgstr "Typsnittsfamilj"
+
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:140
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:150
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:250
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:156
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:165
+#: modules/gutenberg/build/blocks.js:11
+#: modules/gutenberg/dist/blocks.build.js:1
+msgid "Two Column"
+msgstr "Två kolumner"
+
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:139
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:149
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:246
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:155
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:164
+#: modules/gutenberg/build/blocks.js:11
+#: modules/gutenberg/dist/blocks.build.js:1
+msgid "One Column"
+msgstr "En kolumn"
+
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:228
+msgid "Checkout Skin"
+msgstr "Kassans mall"
+
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:1016
+msgid "Add this shortcode to your checkout page"
+msgstr "Lägg till denna kortkod på din kassa-sida"
+
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:222
+msgid "Checkout Design"
+msgstr "Kassans utseende"
+
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:975
+msgid "Order Bump"
+msgstr "Order Bump"
+
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:925
+msgid "Select Product"
+msgstr "Välj produkt"
+
+#: modules/checkout/classes/class-cartflows-checkout-markup.php:711
+msgid "This product can't be purchased"
+msgstr "Denna produkt kan inte köpas"
+
+#: modules/checkout/classes/class-cartflows-checkout-markup.php:700
+msgid "Variations Not set"
+msgstr "Variationer inte angivna"
+
+#: modules/checkout/classes/class-cartflows-checkout-markup.php:488
+msgid "Checkout ID not found"
+msgstr "Kassa-ID inte funnet"
+
+#: modules/checkout/templates/wcf-template.php:55
+msgid "All Rights Reserved"
+msgstr "Alla rättigheter förbehållna"
+
+#: modules/checkout/templates/wcf-template.php:51
+msgid "Copyright &copy;"
+msgstr "Copyright &copy; "
+
+#: modules/checkout/classes/class-cartflows-checkout-markup.php:561
+#: modules/checkout/templates/embed/checkout-template-simple.php:48
+#: modules/checkout/templates/wcf-template.php:40
+#: modules/optin/templates/optin-template-simple.php:29
+msgid "Your cart is currently empty."
+msgstr "Din varukorg är för närvarande tom."
+
+#: modules/landing/classes/class-cartflows-landing-meta-data.php:100
+msgid "Next Step Link"
+msgstr "Länk för nästa steg"
+
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:1007
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:648
+msgid "Shortcodes"
+msgstr "Kortkoder"
+
+#. Author of the plugin
+msgid "CartFlows Inc"
+msgstr "CartFlows Inc"
+
+#. Description of the plugin
+msgid "Create beautiful checkout pages & sales flows for WooCommerce."
+msgstr "Skapa snygga sidor för kassan och säljflöden för WooCommerce."
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://cartflows.com/"
+msgstr "https://cartflows.com/"
+
+#. Plugin Name of the plugin
+#: modules/woo-dynamic-flow/classes/class-cartflows-wd-flow-product-meta.php:71
+#: admin-core/assets/build/editor-app.js:1
+#: admin-core/assets/build/settings-app.js:1
+msgid "CartFlows"
+msgstr "CartFlows"
+
+#: admin-core/inc/admin-menu.php:268 admin-core/inc/admin-menu.php:269
+#: admin-core/assets/build/editor-app.js:1
+#: admin-core/assets/build/settings-app.js:1
+msgid "Templates"
+msgstr "Mallar"
