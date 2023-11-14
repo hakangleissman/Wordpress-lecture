@@ -161,3 +161,4 @@ The default username is `root`, and the password is the same as supplied in the 
 # Wordpress-lecture
 # Wordpress-lecture
 # Wordpress-lecture
+# Wordpress-lecture
