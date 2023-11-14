@@ -159,3 +159,4 @@ You can also visit `http://127.0.0.1:8080` to access phpMyAdmin after starting t
 The default username is `root`, and the password is the same as supplied in the `.env` file.
 # Wordpress-lecture
 # Wordpress-lecture
+# Wordpress-lecture
